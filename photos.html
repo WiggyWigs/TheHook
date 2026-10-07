@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Hook Photos</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22%3E%3Ctext y=%22.9em%22 font-size=%2290%22%3E%F0%9F%AA%9D%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="assets/styles.css">
+<!-- No web app manifest on purpose: iPhone's Add to Home Screen then saves this
+     exact address (GitHub's own manifest sends its icon to github.com/ instead). -->
+<style>
+  main {
+    max-width: 520px; margin: 0 auto; padding: 1.5rem 1rem; text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  }
+  .hook-title { font-family: "Iowan Old Style", Georgia, serif; font-size: 2.2rem; font-weight: 700; color: var(--amber); margin: 0.5rem 0 1.25rem; }
+  a.big {
+    display: block; padding: 0.9rem; margin: 0 0 0.75rem; border-radius: 10px;
+    font-size: 1.15rem; font-weight: 700; text-decoration: none;
+  }
+  a.upload { background: var(--amber); color: var(--bg); }
+  a.small { display: inline-block; margin: 0.6rem 0 0; color: var(--muted); font-size: 0.9rem; }
+  section { border: 1px solid var(--line); border-radius: 10px; background: var(--panel); padding: 0.9rem 1rem 1rem; margin: 0 0 1rem; }
+  .note { color: var(--muted); font-size: 0.85rem; line-height: 1.5; margin: 1rem 0; }
+  h2 { font-family: "Iowan Old Style", Georgia, serif; font-size: 1.05rem; margin: 0 0 0.7rem; }
+  .thumbs { display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center; }
+  .thumbs img { height: 90px; width: auto; max-width: 100%; border-radius: 6px; border: 1px solid var(--line); }
+</style>
+</head>
+<body>
+<main>
+  <h1 class="hook-title">The Hook</h1>
+  <section>
+    <h2 id="title">Photos</h2>
+    <a class="big upload" href="https://github.com/WiggyWigs/TheHook/upload/main/images/weekly">Upload photos</a>
+    <div class="thumbs" id="thumbs"></div>
+    <a class="small" href="index.html">See The Hook</a>
+  </section>
+  <p class="note">Upload opens GitHub's upload page for the photos folder: choose your files, then
+    <strong>Commit changes</strong>. They show up about a minute later and are cleared every Tuesday morning.</p>
+</main>
+<script src="assets/photos.js"></script>
+<script>
+  HookPhotos.showPhotos("images/weekly", "thumbs").then((files) => {
+    document.getElementById("title").textContent = files.length ? `Photos · ${files.length} up this week` : "Photos · none this week";
+  });
+</script>
+</body>
+</html>

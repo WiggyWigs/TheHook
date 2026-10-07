@@ -1,0 +1,48 @@
+name: Pull Lines
+
+on:
+  schedule:
+    # Every 2 hours from Wednesday 5 AM Eastern through Monday night, so the
+    # page tracks DraftKings right up to each kickoff. Cron is UTC-only:
+    # 09:05 UTC = 5:05 AM EDT / 4:05 AM EST. :05 instead of :00 because the
+    # top of the hour is GitHub's most delayed slot.
+    #
+    # No Tuesday runs: the Tuesday line comes from the run you start by hand
+    # on Tuesday (the first Tuesday run's line is kept). Monday night's games
+    # get graded by that run, or by Wednesday's first.
+    - cron: "5 9-23/2 * * 3"     # Wed 09:05-23:05 UTC
+    - cron: "5 1-23/2 * * 4,5,6" # Thu, Fri, Sat - every odd UTC hour
+    - cron: "5 1-23/2 * * 0,1"   # Sun, Mon - every odd UTC hour (last before MNF kickoff: Mon 23:05)
+  workflow_dispatch: {} # run a pull by hand from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pull-lines
+  cancel-in-progress: false
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Pull lines and splits from Action Network
+        run: python scripts/fetch_hook.py
+
+      # Rebase before pushing: the photo workflow and uploads push to the same
+      # branch, and this job only touches data/, so a rebase can't conflict.
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet && exit 0
+          git commit -m "Pull lines ($(date -u +%F))"
+          git pull --rebase
+          git push

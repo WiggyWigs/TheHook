@@ -168,3 +168,41 @@ footer {
   color: var(--muted);
   font-size: 0.78rem;
 }
+
+/* --- Photo lightbox --- */
+
+.lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.88);
+}
+
+.lightbox.open { display: flex; }
+
+.lightbox img {
+  max-width: 94vw;
+  max-height: 88vh;
+  border-radius: 6px;
+  box-shadow: 0 6px 30px rgba(0, 0, 0, 0.6);
+}
+
+.lightbox button {
+  position: absolute;
+  border: 0;
+  background: rgba(0, 0, 0, 0.45);
+  color: var(--text);
+  font-size: 2rem;
+  line-height: 1;
+  width: 2.75rem;
+  height: 2.75rem;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.lightbox .lb-close { top: 1rem; right: 1rem; }
+.lightbox .lb-prev { left: 0.75rem; top: 50%; transform: translateY(-50%); }
+.lightbox .lb-next { right: 0.75rem; top: 50%; transform: translateY(-50%); }

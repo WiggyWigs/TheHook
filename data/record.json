@@ -1319,6 +1319,28 @@
     "away_score": 13,
     "final": true
   },
+  "NCAAF:289379": {
+    "league": "NCAAF",
+    "season": 2026,
+    "an_week": 6,
+    "week_id": "2026-10-12",
+    "start_time": "2026-10-07T23:00:00.000Z",
+    "home": "Kennesaw State Owls",
+    "away": "Jacksonville State Gamecocks",
+    "home_abbr": "KENN",
+    "away_abbr": "JVST",
+    "tue_line": 3,
+    "line": 3,
+    "home_bets": 42,
+    "home_money": 34,
+    "away_bets": 58,
+    "away_money": 66,
+    "frozen_at": "2026-10-07T21:55:01+00:00",
+    "frozen_for": "kickoff",
+    "home_score": 26,
+    "away_score": 27,
+    "final": true
+  },
   "NFL:290819": {
     "league": "NFL",
     "season": 2026,

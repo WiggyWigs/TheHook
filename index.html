@@ -547,10 +547,13 @@
     document.getElementById("traps-list").innerHTML = best
       .map((r) => {
         const t = r.trapInfo;
-        const team = t.side === "home" ? r.home : r.away, opp = t.side === "home" ? r.away : r.home;
-        return `<li><span class="pick">${t.money}% of the money on ${esc(team)}</span>
-          <span class="meta">vs ${esc(opp)} · ${esc(r.league)} · ${t.tickets}% of the tickets · line moved ${t.move} pts away:
-          ${esc(t.moveText)} · Kickoff ${fmtKickoff(r.start)}</span></li>`;
+        // Highlight the line side (the team the line moved toward), not the public money side
+        const lineSide = t.side === "home" ? "away" : "home";
+        const team = r[lineSide], moneyTeam = r[t.side];
+        const spread = lineSide === "home" ? r.line : -r.line;
+        return `<li><span class="pick">${esc(team)} ${fmtSpread(spread)}</span>
+          <span class="meta">line side · ${t.money}% of the money on ${esc(moneyTeam)} (${t.tickets}% of the tickets) · ${esc(r.league)} ·
+          line moved ${t.move} pts away from them: ${esc(t.moveText)} · Kickoff ${fmtKickoff(r.start)}</span></li>`;
       })
       .join("");
     const noneEl = document.getElementById("traps-none");

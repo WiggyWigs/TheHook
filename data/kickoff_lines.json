@@ -827,6 +827,30 @@
     "home": "Pittsburgh Panthers",
     "start_time": "2026-10-10T16:00:00.000Z"
   },
+  "NCAAF:289391": {
+    "line": 6,
+    "home_bets": 35,
+    "home_money": 13,
+    "away_bets": 65,
+    "away_money": 87,
+    "frozen_at": "2026-10-10T16:07:49+00:00",
+    "frozen_for": "kickoff",
+    "away": "Miami (OH) RedHawks",
+    "home": "UMass Minutemen",
+    "start_time": "2026-10-10T18:00:00.000Z"
+  },
+  "NCAAF:289395": {
+    "line": -10,
+    "home_bets": 12,
+    "home_money": 15,
+    "away_bets": 88,
+    "away_money": 85,
+    "frozen_at": "2026-10-10T16:07:49+00:00",
+    "frozen_for": "kickoff",
+    "away": "Old Dominion Monarchs",
+    "home": "Appalachian State Mountaineers",
+    "start_time": "2026-10-10T17:00:00.000Z"
+  },
   "NCAAF:289398": {
     "line": -4,
     "home_bets": 52,
@@ -839,6 +863,18 @@
     "home": "Utah State Aggies",
     "start_time": "2026-10-10T01:00:00.000Z"
   },
+  "NCAAF:289418": {
+    "line": -10.5,
+    "home_bets": 70,
+    "home_money": 76,
+    "away_bets": 30,
+    "away_money": 24,
+    "frozen_at": "2026-10-10T16:07:49+00:00",
+    "frozen_for": "kickoff",
+    "away": "South Carolina Gamecocks",
+    "home": "Florida Gators",
+    "start_time": "2026-10-10T16:45:00.000Z"
+  },
   "NCAAF:289423": {
     "line": -3,
     "home_bets": 25,
@@ -850,6 +886,30 @@
     "away": "Iowa Hawkeyes",
     "home": "Washington Huskies",
     "start_time": "2026-10-10T01:00:00.000Z"
+  },
+  "NCAAF:289426": {
+    "line": -10,
+    "home_bets": 8,
+    "home_money": 7,
+    "away_bets": 92,
+    "away_money": 93,
+    "frozen_at": "2026-10-10T16:07:49+00:00",
+    "frozen_for": "kickoff",
+    "away": "Rice Owls",
+    "home": "East Carolina Pirates",
+    "start_time": "2026-10-10T17:00:00.000Z"
+  },
+  "NCAAF:289431": {
+    "line": -34.5,
+    "home_bets": 13,
+    "home_money": 18,
+    "away_bets": 87,
+    "away_money": 82,
+    "frozen_at": "2026-10-10T16:07:49+00:00",
+    "frozen_for": "kickoff",
+    "away": "Ball State Cardinals",
+    "home": "Northwestern Wildcats",
+    "start_time": "2026-10-10T16:30:00.000Z"
   },
   "NCAAF:289433": {
     "line": -10.5,

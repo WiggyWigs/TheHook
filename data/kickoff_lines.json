@@ -791,6 +791,18 @@
     "home": "Louisville Cardinals",
     "start_time": "2026-10-09T23:00:00.000Z"
   },
+  "NCAAF:289386": {
+    "line": -11.5,
+    "home_bets": 53,
+    "home_money": 47,
+    "away_bets": 47,
+    "away_money": 53,
+    "frozen_at": "2026-10-10T02:09:25+00:00",
+    "frozen_for": "kickoff",
+    "away": "Iowa State Cyclones",
+    "home": "BYU Cougars",
+    "start_time": "2026-10-10T02:15:00.000Z"
+  },
   "NCAAF:289398": {
     "line": -4,
     "home_bets": 52,

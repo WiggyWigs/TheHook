@@ -1425,9 +1425,31 @@
     "away_money": 46,
     "frozen_at": "2026-10-09T21:29:59+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 44,
+    "away_score": 20,
+    "final": true
+  },
+  "NCAAF:289386": {
+    "league": "NCAAF",
+    "season": 2026,
+    "an_week": 6,
+    "week_id": "2026-10-12",
+    "start_time": "2026-10-10T02:15:00.000Z",
+    "home": "BYU Cougars",
+    "away": "Iowa State Cyclones",
+    "home_abbr": "BYU",
+    "away_abbr": "ISU",
+    "tue_line": -10.5,
+    "line": -11.5,
+    "home_bets": 53,
+    "home_money": 47,
+    "away_bets": 47,
+    "away_money": 53,
+    "frozen_at": "2026-10-10T02:09:25+00:00",
+    "frozen_for": "kickoff",
+    "home_score": 24,
+    "away_score": 10,
+    "final": true
   },
   "NCAAF:289398": {
     "league": "NCAAF",
@@ -1447,9 +1469,9 @@
     "away_money": 44,
     "frozen_at": "2026-10-09T21:29:59+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 17,
+    "away_score": 16,
+    "final": true
   },
   "NCAAF:289423": {
     "league": "NCAAF",
@@ -1469,9 +1491,9 @@
     "away_money": 54,
     "frozen_at": "2026-10-09T21:29:59+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 24,
+    "away_score": 41,
+    "final": true
   },
   "NCAAF:289443": {
     "league": "NCAAF",
@@ -1491,9 +1513,9 @@
     "away_money": 28,
     "frozen_at": "2026-10-09T21:29:59+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 13,
+    "away_score": 16,
+    "final": true
   },
   "NFL:290819": {
     "league": "NFL",

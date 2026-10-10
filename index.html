@@ -544,8 +544,11 @@
           badge = `<span class="result ${res}" title="At the kickoff line ${fmtSpread(sideLine)}">${res}</span>`;
           score = ` · Final ${esc(r.away_abbr)} ${r.away_score}-${r.home_score} ${esc(r.home_abbr)} (graded at kickoff line ${esc(s.abbr)} ${fmtSpread(sideLine)})`;
         }
-        return `<li>${badge}<span class="pick">${esc(team)} ${fmtSpread(s.tueLine)}</span>
-          <span class="meta">vs ${esc(opp)} · ${esc(r.league)} · Tue ${fmtSpread(s.tueLine)} ·
+        // The team's current line (frozen at kickoff once the game starts); the
+        // Tuesday line is in the move text that follows
+        const nowLine = r.line === null || r.line === undefined ? null : s.side === "home" ? r.line : -r.line;
+        return `<li>${badge}<span class="pick">${esc(team)} ${fmtSpread(nowLine)}</span>
+          <span class="meta">vs ${esc(opp)} · ${esc(r.league)} ·
           ${s.money}% of the money on ${s.tickets}% of the tickets (gap +${s.gap}) · ${esc(s.moveText)} · Kickoff ${fmtKickoff(r.start)}${score}</span></li>`;
       })
       .join("");

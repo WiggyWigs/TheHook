@@ -564,7 +564,7 @@
 
   function renderTraps(rows) {
     const best = rows
-      .filter((r) => !r.started && r.trapInfo)
+      .filter((r) => r.trapInfo)
       .sort((a, b) => b.trapInfo.move - a.trapInfo.move || b.trapInfo.money - a.trapInfo.money);
     document.getElementById("traps-list").innerHTML = best
       .map((r) => {
@@ -573,9 +573,18 @@
         const lineSide = t.side === "home" ? "away" : "home";
         const team = r[lineSide], moneyTeam = r[t.side];
         const spread = lineSide === "home" ? r.line : -r.line;
-        return `<li><span class="pick">${esc(team)} ${fmtSpread(spread)}</span>
+        // Started games stay (line frozen at kickoff) and get a W/L/P on the line
+        // side at the kickoff line once a pull brings the final
+        let badge = "", score = "";
+        if (r.status === "complete" && r.home_score !== null && r.home_score !== undefined && r.line !== null) {
+          const margin = (lineSide === "home" ? r.home_score - r.away_score : r.away_score - r.home_score) + spread;
+          const res = margin > 0 ? "W" : margin < 0 ? "L" : "P";
+          badge = `<span class="result ${res}" title="At the kickoff line ${fmtSpread(spread)}">${res}</span>`;
+          score = ` · Final ${esc(r.away_abbr)} ${r.away_score}-${r.home_score} ${esc(r.home_abbr)} (graded at kickoff line ${esc(r[lineSide + "_abbr"])} ${fmtSpread(spread)})`;
+        }
+        return `<li>${badge}<span class="pick">${esc(team)} ${fmtSpread(spread)}</span>
           <span class="meta">line side · ${t.money}% of the money on ${esc(moneyTeam)} (${t.tickets}% of the tickets) · ${esc(r.league)} ·
-          line moved ${t.move} pts away from them: ${esc(t.moveText)} · Kickoff ${fmtKickoff(r.start)}</span></li>`;
+          line moved ${t.move} pts away from them: ${esc(t.moveText)} · Kickoff ${fmtKickoff(r.start)}${score}</span></li>`;
       })
       .join("");
     const noneEl = document.getElementById("traps-none");

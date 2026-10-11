@@ -2551,6 +2551,28 @@
     "away_score": 30,
     "final": true
   },
+  "NFL:290820": {
+    "league": "NFL",
+    "season": 2026,
+    "an_week": 5,
+    "week_id": "2026-10-12",
+    "start_time": "2026-10-11T13:30:00.000Z",
+    "home": "Jacksonville Jaguars",
+    "away": "Philadelphia Eagles",
+    "home_abbr": "JAC",
+    "away_abbr": "PHI",
+    "tue_line": -6.5,
+    "line": -8.5,
+    "home_bets": 54,
+    "home_money": 48,
+    "away_bets": 46,
+    "away_money": 52,
+    "frozen_at": "2026-10-11T06:54:06+00:00",
+    "frozen_for": "kickoff",
+    "home_score": null,
+    "away_score": null,
+    "final": false
+  },
   "NFL:290888": {
     "league": "NFL",
     "season": 2026,

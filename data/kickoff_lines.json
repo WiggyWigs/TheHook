@@ -1415,6 +1415,18 @@
     "home": "Washington Commanders",
     "start_time": "2026-10-04T13:30:00.000Z"
   },
+  "NFL:290820": {
+    "line": -8.5,
+    "home_bets": 54,
+    "home_money": 48,
+    "away_bets": 46,
+    "away_money": 52,
+    "frozen_at": "2026-10-11T06:54:06+00:00",
+    "frozen_for": "kickoff",
+    "away": "Philadelphia Eagles",
+    "home": "Jacksonville Jaguars",
+    "start_time": "2026-10-11T13:30:00.000Z"
+  },
   "NFL:290888": {
     "line": 2.5,
     "home_bets": 49,

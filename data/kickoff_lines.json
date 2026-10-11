@@ -1067,6 +1067,18 @@
     "home": "Western Michigan Broncos",
     "start_time": "2026-10-10T19:30:00.000Z"
   },
+  "NCAAF:289421": {
+    "line": -20.5,
+    "home_bets": 58,
+    "home_money": 61,
+    "away_bets": 42,
+    "away_money": 39,
+    "frozen_at": "2026-10-11T00:08:20+00:00",
+    "frozen_for": "kickoff",
+    "away": "Hawai'i Warriors",
+    "home": "Arizona State Sun Devils",
+    "start_time": "2026-10-11T02:30:00.000Z"
+  },
   "NCAAF:289422": {
     "line": -2.5,
     "home_bets": 28,
@@ -1330,6 +1342,18 @@
     "away": "Louisiana Ragin' Cajuns",
     "home": "Louisiana Tech Bulldogs",
     "start_time": "2026-10-10T23:30:00.000Z"
+  },
+  "NCAAF:289468": {
+    "line": 8.5,
+    "home_bets": 24,
+    "home_money": 24,
+    "away_bets": 76,
+    "away_money": 76,
+    "frozen_at": "2026-10-11T00:08:20+00:00",
+    "frozen_for": "kickoff",
+    "away": "Boise State Broncos",
+    "home": "Fresno State Bulldogs",
+    "start_time": "2026-10-11T02:30:00.000Z"
   },
   "NCAAF:289469": {
     "line": -18.5,

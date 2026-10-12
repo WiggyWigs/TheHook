@@ -3166,5 +3166,27 @@
     "home_score": 31,
     "away_score": 7,
     "final": true
+  },
+  "NFL:290915": {
+    "league": "NFL",
+    "season": 2026,
+    "an_week": 5,
+    "week_id": "2026-10-12",
+    "start_time": "2026-10-12T00:20:00.000Z",
+    "home": "Atlanta Falcons",
+    "away": "Baltimore Ravens",
+    "home_abbr": "ATL",
+    "away_abbr": "BAL",
+    "tue_line": -3,
+    "line": -3.5,
+    "home_bets": 46,
+    "home_money": 44,
+    "away_bets": 54,
+    "away_money": 56,
+    "frozen_at": "2026-10-12T00:17:25+00:00",
+    "frozen_for": "kickoff",
+    "home_score": 23,
+    "away_score": 30,
+    "final": true
   }
 }

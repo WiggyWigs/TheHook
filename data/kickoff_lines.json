@@ -1750,5 +1750,17 @@
     "away": "Chicago Bears",
     "home": "Green Bay Packers",
     "start_time": "2026-10-11T17:00:00.000Z"
+  },
+  "NFL:290915": {
+    "line": -3.5,
+    "home_bets": 46,
+    "home_money": 44,
+    "away_bets": 54,
+    "away_money": 56,
+    "frozen_at": "2026-10-12T00:17:25+00:00",
+    "frozen_for": "kickoff",
+    "away": "Baltimore Ravens",
+    "home": "Atlanta Falcons",
+    "start_time": "2026-10-12T00:20:00.000Z"
   }
 }

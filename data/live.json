@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-12T00:17:25+00:00",
+  "pulled_at": "2026-10-12T07:03:06+00:00",
   "edge_threshold": 15,
   "games": [
     {
@@ -1642,7 +1642,7 @@
       "an_week": 5,
       "week_id": "2026-10-12",
       "start_time": "2026-10-12T00:20:00.000Z",
-      "status": "scheduled",
+      "status": "complete",
       "home": "Atlanta Falcons",
       "away": "Baltimore Ravens",
       "home_abbr": "ATL",
@@ -1652,8 +1652,10 @@
       "home_money": 44,
       "away_bets": 54,
       "away_money": 56,
-      "home_score": 0,
-      "away_score": 0,
+      "home_score": 23,
+      "away_score": 30,
+      "frozen_at": "2026-10-12T00:17:25+00:00",
+      "frozen_for": "kickoff",
       "tue_line": -3
     },
     {
@@ -1668,11 +1670,11 @@
       "away": "Buffalo Bills",
       "home_abbr": "LA",
       "away_abbr": "BUF",
-      "line": -3.5,
+      "line": -3,
       "home_bets": 21,
-      "home_money": 25,
+      "home_money": 21,
       "away_bets": 79,
-      "away_money": 75,
+      "away_money": 79,
       "home_score": null,
       "away_score": null,
       "tue_line": -2.5

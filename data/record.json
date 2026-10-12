@@ -2943,9 +2943,9 @@
     "away_money": 63,
     "frozen_at": "2026-10-11T13:50:50+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 27,
+    "away_score": 27,
+    "final": true
   },
   "NFL:290905": {
     "league": "NFL",
@@ -2965,9 +2965,9 @@
     "away_money": 63,
     "frozen_at": "2026-10-11T13:50:50+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 3,
+    "away_score": 26,
+    "final": true
   },
   "NFL:290906": {
     "league": "NFL",
@@ -2987,9 +2987,9 @@
     "away_money": 52,
     "frozen_at": "2026-10-11T13:50:50+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 13,
+    "away_score": 23,
+    "final": true
   },
   "NFL:290907": {
     "league": "NFL",
@@ -3009,9 +3009,9 @@
     "away_money": 80,
     "frozen_at": "2026-10-11T13:50:50+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 24,
+    "away_score": 31,
+    "final": true
   },
   "NFL:290908": {
     "league": "NFL",
@@ -3031,9 +3031,9 @@
     "away_money": 74,
     "frozen_at": "2026-10-11T13:50:50+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 17,
+    "away_score": 12,
+    "final": true
   },
   "NFL:290909": {
     "league": "NFL",
@@ -3053,9 +3053,9 @@
     "away_money": 62,
     "frozen_at": "2026-10-11T13:50:50+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 34,
+    "away_score": 22,
+    "final": true
   },
   "NFL:290910": {
     "league": "NFL",
@@ -3075,9 +3075,75 @@
     "away_money": 77,
     "frozen_at": "2026-10-11T13:50:50+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 45,
+    "away_score": 17,
+    "final": true
+  },
+  "NFL:290911": {
+    "league": "NFL",
+    "season": 2026,
+    "an_week": 5,
+    "week_id": "2026-10-12",
+    "start_time": "2026-10-11T20:05:00.000Z",
+    "home": "Los Angeles Chargers",
+    "away": "Denver Broncos",
+    "home_abbr": "LAC",
+    "away_abbr": "DEN",
+    "tue_line": 3.5,
+    "line": 3.5,
+    "home_bets": 47,
+    "home_money": 48,
+    "away_bets": 53,
+    "away_money": 52,
+    "frozen_at": "2026-10-11T19:23:33+00:00",
+    "frozen_for": "kickoff",
+    "home_score": 17,
+    "away_score": 23,
+    "final": true
+  },
+  "NFL:290912": {
+    "league": "NFL",
+    "season": 2026,
+    "an_week": 5,
+    "week_id": "2026-10-12",
+    "start_time": "2026-10-11T20:25:00.000Z",
+    "home": "Seattle Seahawks",
+    "away": "San Francisco 49ers",
+    "home_abbr": "SEA",
+    "away_abbr": "SF",
+    "tue_line": -3,
+    "line": -3,
+    "home_bets": 22,
+    "home_money": 28,
+    "away_bets": 78,
+    "away_money": 72,
+    "frozen_at": "2026-10-11T19:23:33+00:00",
+    "frozen_for": "kickoff",
+    "home_score": 29,
+    "away_score": 32,
+    "final": true
+  },
+  "NFL:290913": {
+    "league": "NFL",
+    "season": 2026,
+    "an_week": 5,
+    "week_id": "2026-10-12",
+    "start_time": "2026-10-11T20:25:00.000Z",
+    "home": "Arizona Cardinals",
+    "away": "Detroit Lions",
+    "home_abbr": "ARI",
+    "away_abbr": "DET",
+    "tue_line": 4.5,
+    "line": 5.5,
+    "home_bets": 47,
+    "home_money": 40,
+    "away_bets": 53,
+    "away_money": 60,
+    "frozen_at": "2026-10-11T19:23:33+00:00",
+    "frozen_for": "kickoff",
+    "home_score": 21,
+    "away_score": 45,
+    "final": true
   },
   "NFL:290914": {
     "league": "NFL",
@@ -3097,8 +3163,8 @@
     "away_money": 49,
     "frozen_at": "2026-10-11T13:50:50+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 31,
+    "away_score": 7,
+    "final": true
   }
 }

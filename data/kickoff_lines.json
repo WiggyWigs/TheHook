@@ -1703,6 +1703,42 @@
     "home": "New England Patriots",
     "start_time": "2026-10-11T17:00:00.000Z"
   },
+  "NFL:290911": {
+    "line": 3.5,
+    "home_bets": 47,
+    "home_money": 48,
+    "away_bets": 53,
+    "away_money": 52,
+    "frozen_at": "2026-10-11T19:23:33+00:00",
+    "frozen_for": "kickoff",
+    "away": "Denver Broncos",
+    "home": "Los Angeles Chargers",
+    "start_time": "2026-10-11T20:05:00.000Z"
+  },
+  "NFL:290912": {
+    "line": -3,
+    "home_bets": 22,
+    "home_money": 28,
+    "away_bets": 78,
+    "away_money": 72,
+    "frozen_at": "2026-10-11T19:23:33+00:00",
+    "frozen_for": "kickoff",
+    "away": "San Francisco 49ers",
+    "home": "Seattle Seahawks",
+    "start_time": "2026-10-11T20:25:00.000Z"
+  },
+  "NFL:290913": {
+    "line": 5.5,
+    "home_bets": 47,
+    "home_money": 40,
+    "away_bets": 53,
+    "away_money": 60,
+    "frozen_at": "2026-10-11T19:23:33+00:00",
+    "frozen_for": "kickoff",
+    "away": "Detroit Lions",
+    "home": "Arizona Cardinals",
+    "start_time": "2026-10-11T20:25:00.000Z"
+  },
   "NFL:290914": {
     "line": 1.5,
     "home_bets": 44,

@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-12T16:40:16+00:00",
+  "pulled_at": "2026-10-12T22:03:49+00:00",
   "games": [
     {
       "id": 290903,
@@ -294,9 +294,9 @@
       "home_abbr": "LA",
       "away_abbr": "BUF",
       "line": -3.5,
-      "home_bets": 22,
+      "home_bets": 23,
       "home_money": 21,
-      "away_bets": 78,
+      "away_bets": 77,
       "away_money": 79,
       "home_score": null,
       "away_score": null

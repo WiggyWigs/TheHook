@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-12T00:07:50+00:00",
+  "pulled_at": "2026-10-12T00:17:25+00:00",
   "games": [
     {
       "id": 290903,
@@ -278,8 +278,8 @@
       "home_money": 44,
       "away_bets": 54,
       "away_money": 56,
-      "home_score": null,
-      "away_score": null
+      "home_score": 0,
+      "away_score": 0
     },
     {
       "id": 290916,

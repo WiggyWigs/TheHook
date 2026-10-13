@@ -9,7 +9,8 @@ on:
     #
     # No Tuesday runs: the Tuesday line comes from the run you start by hand
     # on Tuesday (the first Tuesday run's line is kept). Monday night's games
-    # get graded by that run, or by Wednesday's first.
+    # are frozen at Monday's last pull and recorded and graded by that run,
+    # or by Wednesday's first.
     - cron: "5 9-23/2 * * 3"     # Wed 09:05-23:05 UTC
     - cron: "5 1-23/2 * * 4,5,6" # Thu, Fri, Sat - every odd UTC hour
     - cron: "5 1-23/2 * * 0,1"   # Sun, Mon - every odd UTC hour (last before MNF kickoff: Mon 23:05)

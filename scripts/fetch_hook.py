@@ -284,9 +284,20 @@ def main():
     games = [copy.deepcopy(g) for g in feed if g["week_id"] == week]
     games += carry_over_week(feed, week, prev)
 
+    # Last week's games that never made the record. Monday night kicks off
+    # after Monday's last pull, and the next run is already in the new week,
+    # so without this the game is never frozen or graded. They go to the
+    # record only - the page has moved on to this week.
+    rec_path = DATA / "record.json"
+    record = load_json(rec_path, {})
+    last_week = (datetime.fromisoformat(week) - timedelta(days=7)).date().isoformat()
+    stragglers = [copy.deepcopy(g) for g in feed if g["week_id"] == last_week]
+    stragglers += carry_over_week(feed, last_week, prev)
+    stragglers = [g for g in stragglers if key_of(g) not in record]
+
     kick_path = DATA / "kickoff_lines.json"
     kick_store = load_json(kick_path, {})
-    freeze_started_games(games, now, kick_store, prev)
+    freeze_started_games(games + stragglers, now, kick_store, prev)
     save_json(kick_path, dict(sorted(kick_store.items())))
 
     # Raw snapshot of what the feed returned, per week
@@ -297,12 +308,10 @@ def main():
         save_json(DATA / "weeks" / wk / f"{today}.json", {"pulled_at": now.isoformat(timespec="seconds"), "games": wk_games})
 
     snapshots = {}
-    for g in games:
+    for g in games + stragglers:
         g["tue_line"] = tuesday_line(g, tue_store, snapshots)
 
-    rec_path = DATA / "record.json"
-    record = load_json(rec_path, {})
-    update_record(record, games)
+    update_record(record, games + stragglers)
     finals = fetch_finals(feed, record, now)
     for key, r in record.items():
         fin = finals.get(key)

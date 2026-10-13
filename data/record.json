@@ -2529,6 +2529,28 @@
     "away_score": 17,
     "final": true
   },
+  "NCAAF:289875": {
+    "league": "NCAAF",
+    "season": 2026,
+    "an_week": 7,
+    "week_id": "2026-10-19",
+    "start_time": "2026-10-13T23:00:00.000Z",
+    "home": "Middle Tennessee Blue Raiders",
+    "away": "Delaware Fightin Blue Hens",
+    "home_abbr": "MTSU",
+    "away_abbr": "DEL",
+    "tue_line": 1.5,
+    "line": 1.5,
+    "home_bets": 52,
+    "home_money": 52,
+    "away_bets": 48,
+    "away_money": 48,
+    "frozen_at": "2026-10-13T15:49:09+00:00",
+    "frozen_for": "kickoff",
+    "home_score": null,
+    "away_score": null,
+    "final": false
+  },
   "NFL:290819": {
     "league": "NFL",
     "season": 2026,

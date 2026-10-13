@@ -1762,5 +1762,17 @@
     "away": "Baltimore Ravens",
     "home": "Atlanta Falcons",
     "start_time": "2026-10-12T00:20:00.000Z"
+  },
+  "NFL:290916": {
+    "line": -3.5,
+    "home_bets": 25,
+    "home_money": 28,
+    "away_bets": 75,
+    "away_money": 72,
+    "frozen_at": "2026-10-12T23:32:07+00:00",
+    "frozen_for": "kickoff",
+    "away": "Buffalo Bills",
+    "home": "Los Angeles Rams",
+    "start_time": "2026-10-13T00:15:00.000Z"
   }
 }

@@ -3188,5 +3188,27 @@
     "home_score": 23,
     "away_score": 30,
     "final": true
+  },
+  "NFL:290916": {
+    "league": "NFL",
+    "season": 2026,
+    "an_week": 5,
+    "week_id": "2026-10-12",
+    "start_time": "2026-10-13T00:15:00.000Z",
+    "home": "Los Angeles Rams",
+    "away": "Buffalo Bills",
+    "home_abbr": "LA",
+    "away_abbr": "BUF",
+    "tue_line": -2.5,
+    "line": -3.5,
+    "home_bets": 25,
+    "home_money": 28,
+    "away_bets": 75,
+    "away_money": 72,
+    "frozen_at": "2026-10-12T23:32:07+00:00",
+    "frozen_for": "kickoff",
+    "home_score": 34,
+    "away_score": 37,
+    "final": true
   }
 }

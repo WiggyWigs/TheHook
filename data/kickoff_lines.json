@@ -1,4 +1,16 @@
 {
+  "NCAAF:289263": {
+    "line": -3,
+    "home_bets": null,
+    "home_money": null,
+    "away_bets": null,
+    "away_money": null,
+    "frozen_at": "2026-10-13T23:59:53+00:00",
+    "frozen_for": "kickoff",
+    "away": "Florida International Panthers",
+    "home": "Jacksonville State Gamecocks",
+    "start_time": "2026-10-14T00:00:00.000Z"
+  },
   "NCAAF:289264": {
     "line": 2.5,
     "home_bets": 44,

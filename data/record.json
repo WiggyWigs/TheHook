@@ -2547,9 +2547,9 @@
     "away_money": 48,
     "frozen_at": "2026-10-13T15:49:09+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 33,
+    "away_score": 30,
+    "final": true
   },
   "NFL:290819": {
     "league": "NFL",

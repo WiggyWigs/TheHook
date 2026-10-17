@@ -1535,6 +1535,18 @@
     "home": "Clemson Tigers",
     "start_time": "2026-10-17T16:00:00.000Z"
   },
+  "NCAAF:289509": {
+    "line": -3,
+    "home_bets": 30,
+    "home_money": 32,
+    "away_bets": 70,
+    "away_money": 68,
+    "frozen_at": "2026-10-17T19:03:46+00:00",
+    "frozen_for": "kickoff",
+    "away": "North Carolina Tar Heels",
+    "home": "Duke Blue Devils",
+    "start_time": "2026-10-17T19:30:00.000Z"
+  },
   "NCAAF:289516": {
     "line": -12.5,
     "home_bets": 41,
@@ -1546,6 +1558,18 @@
     "away": "Florida Gators",
     "home": "Texas Longhorns",
     "start_time": "2026-10-17T16:00:00.000Z"
+  },
+  "NCAAF:289520": {
+    "line": -9.5,
+    "home_bets": 67,
+    "home_money": 58,
+    "away_bets": 33,
+    "away_money": 42,
+    "frozen_at": "2026-10-17T19:03:46+00:00",
+    "frozen_for": "kickoff",
+    "away": "Akron Zips",
+    "home": "Miami (OH) RedHawks",
+    "start_time": "2026-10-17T19:30:00.000Z"
   },
   "NCAAF:289522": {
     "line": -3.5,
@@ -1571,6 +1595,18 @@
     "home": "Texas A&M Aggies",
     "start_time": "2026-10-17T17:00:00.000Z"
   },
+  "NCAAF:289532": {
+    "line": 1.5,
+    "home_bets": 34,
+    "home_money": 24,
+    "away_bets": 66,
+    "away_money": 76,
+    "frozen_at": "2026-10-17T19:03:46+00:00",
+    "frozen_for": "kickoff",
+    "away": "UNLV Rebels",
+    "home": "Air Force Falcons",
+    "start_time": "2026-10-17T19:30:00.000Z"
+  },
   "NCAAF:289539": {
     "line": -7,
     "home_bets": 45,
@@ -1582,6 +1618,18 @@
     "away": "UMass Minutemen",
     "home": "Buffalo Bulls",
     "start_time": "2026-10-17T17:00:00.000Z"
+  },
+  "NCAAF:289540": {
+    "line": 7.5,
+    "home_bets": 27,
+    "home_money": 24,
+    "away_bets": 73,
+    "away_money": 76,
+    "frozen_at": "2026-10-17T19:03:46+00:00",
+    "frozen_for": "kickoff",
+    "away": "Alabama Crimson Tide",
+    "home": "Tennessee Volunteers",
+    "start_time": "2026-10-17T19:30:00.000Z"
   },
   "NCAAF:289541": {
     "line": 7,
@@ -1595,6 +1643,18 @@
     "home": "Michigan State Spartans",
     "start_time": "2026-10-17T16:00:00.000Z"
   },
+  "NCAAF:289542": {
+    "line": -4,
+    "home_bets": 48,
+    "home_money": 60,
+    "away_bets": 52,
+    "away_money": 40,
+    "frozen_at": "2026-10-17T19:03:46+00:00",
+    "frozen_for": "kickoff",
+    "away": "Missouri Tigers",
+    "home": "Ole Miss Rebels",
+    "start_time": "2026-10-17T19:30:00.000Z"
+  },
   "NCAAF:289553": {
     "line": 6,
     "home_bets": 36,
@@ -1607,6 +1667,30 @@
     "home": "Boston College Eagles",
     "start_time": "2026-10-17T16:00:00.000Z"
   },
+  "NCAAF:289554": {
+    "line": -6,
+    "home_bets": 28,
+    "home_money": 20,
+    "away_bets": 72,
+    "away_money": 80,
+    "frozen_at": "2026-10-17T19:03:46+00:00",
+    "frozen_for": "kickoff",
+    "away": "Penn State Nittany Lions",
+    "home": "Michigan Wolverines",
+    "start_time": "2026-10-17T19:30:00.000Z"
+  },
+  "NCAAF:289556": {
+    "line": -3,
+    "home_bets": 53,
+    "home_money": 47,
+    "away_bets": 47,
+    "away_money": 53,
+    "frozen_at": "2026-10-17T19:03:46+00:00",
+    "frozen_for": "kickoff",
+    "away": "Troy Trojans",
+    "home": "Louisiana Ragin' Cajuns",
+    "start_time": "2026-10-17T21:00:00.000Z"
+  },
   "NCAAF:289559": {
     "line": -17.5,
     "home_bets": 49,
@@ -1618,6 +1702,54 @@
     "away": "Charlotte 49ers",
     "home": "Temple Owls",
     "start_time": "2026-10-17T17:00:00.000Z"
+  },
+  "NCAAF:289561": {
+    "line": 7,
+    "home_bets": 57,
+    "home_money": 43,
+    "away_bets": 43,
+    "away_money": 57,
+    "frozen_at": "2026-10-17T19:03:46+00:00",
+    "frozen_for": "kickoff",
+    "away": "Toledo Rockets",
+    "home": "Eastern Michigan Eagles",
+    "start_time": "2026-10-17T19:30:00.000Z"
+  },
+  "NCAAF:289565": {
+    "line": -8.5,
+    "home_bets": 30,
+    "home_money": 25,
+    "away_bets": 70,
+    "away_money": 75,
+    "frozen_at": "2026-10-17T19:03:46+00:00",
+    "frozen_for": "kickoff",
+    "away": "Georgia Tech Yellow Jackets",
+    "home": "Virginia Tech Hokies",
+    "start_time": "2026-10-17T19:30:00.000Z"
+  },
+  "NCAAF:289567": {
+    "line": -19.5,
+    "home_bets": 65,
+    "home_money": 72,
+    "away_bets": 35,
+    "away_money": 28,
+    "frozen_at": "2026-10-17T19:03:46+00:00",
+    "frozen_for": "kickoff",
+    "away": "Auburn Tigers",
+    "home": "Georgia Bulldogs",
+    "start_time": "2026-10-17T19:30:00.000Z"
+  },
+  "NCAAF:289568": {
+    "line": 4.5,
+    "home_bets": 40,
+    "home_money": 42,
+    "away_bets": 60,
+    "away_money": 58,
+    "frozen_at": "2026-10-17T19:03:46+00:00",
+    "frozen_for": "kickoff",
+    "away": "Tulsa Golden Hurricane",
+    "home": "Rice Owls",
+    "start_time": "2026-10-17T20:30:00.000Z"
   },
   "NCAAF:289571": {
     "line": 7.5,
@@ -1678,6 +1810,30 @@
     "away": "Georgia State Panthers",
     "home": "James Madison Dukes",
     "start_time": "2026-10-17T16:00:00.000Z"
+  },
+  "NCAAF:289579": {
+    "line": -16.5,
+    "home_bets": 56,
+    "home_money": 55,
+    "away_bets": 44,
+    "away_money": 45,
+    "frozen_at": "2026-10-17T19:03:46+00:00",
+    "frozen_for": "kickoff",
+    "away": "Arizona State Sun Devils",
+    "home": "Texas Tech Red Raiders",
+    "start_time": "2026-10-17T19:30:00.000Z"
+  },
+  "NCAAF:289581": {
+    "line": -7.5,
+    "home_bets": 65,
+    "home_money": 49,
+    "away_bets": 35,
+    "away_money": 51,
+    "frozen_at": "2026-10-17T19:03:46+00:00",
+    "frozen_for": "kickoff",
+    "away": "Northern Illinois Huskies",
+    "home": "Wyoming Cowboys",
+    "start_time": "2026-10-17T19:30:00.000Z"
   },
   "NCAAF:289707": {
     "line": 1.5,

@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-17T18:55:47+00:00",
+  "pulled_at": "2026-10-17T19:03:46+00:00",
   "games": [
     {
       "id": 290917,
@@ -493,13 +493,13 @@
       "away": "Ohio State Buckeyes",
       "home_abbr": "IU",
       "away_abbr": "OSU",
-      "line": 5.5,
+      "line": 11.5,
       "home_bets": 30,
       "home_money": 47,
       "away_bets": 70,
       "away_money": 53,
       "home_score": 7,
-      "away_score": 13
+      "away_score": 19
     },
     {
       "id": 289492,
@@ -533,7 +533,7 @@
       "away": "Florida Atlantic Owls",
       "home_abbr": "ARMY",
       "away_abbr": "FAU",
-      "line": -25.5,
+      "line": -24.5,
       "home_bets": 55,
       "home_money": 56,
       "away_bets": 45,
@@ -553,12 +553,12 @@
       "away": "Charleston Southern Buccaneers",
       "home_abbr": "CLEM",
       "away_abbr": "CCH",
-      "line": -43.5,
+      "line": -37.5,
       "home_bets": 56,
       "home_money": 61,
       "away_bets": 44,
       "away_money": 39,
-      "home_score": 43,
+      "home_score": 37,
       "away_score": 0
     },
     {
@@ -573,13 +573,13 @@
       "away": "Florida Gators",
       "home_abbr": "TEX",
       "away_abbr": "FLA",
-      "line": 2.5,
+      "line": 7.5,
       "home_bets": 42,
       "home_money": 56,
       "away_bets": 58,
       "away_money": 44,
       "home_score": 17,
-      "away_score": 20
+      "away_score": 27
     },
     {
       "id": 289522,
@@ -593,12 +593,12 @@
       "away": "Kansas Jayhawks",
       "home_abbr": "KSU",
       "away_abbr": "KU",
-      "line": 1.5,
+      "line": -7.5,
       "home_bets": 55,
       "home_money": 41,
       "away_bets": 45,
       "away_money": 59,
-      "home_score": 25,
+      "home_score": 32,
       "away_score": 24
     },
     {
@@ -639,7 +639,7 @@
       "away_bets": 65,
       "away_money": 61,
       "home_score": 27,
-      "away_score": 18
+      "away_score": 21
     },
     {
       "id": 289573,
@@ -679,7 +679,7 @@
       "away_bets": 44,
       "away_money": 48,
       "home_score": 28,
-      "away_score": 28
+      "away_score": 35
     },
     {
       "id": 289575,
@@ -699,7 +699,7 @@
       "away_bets": 33,
       "away_money": 26,
       "home_score": 24,
-      "away_score": 17
+      "away_score": 24
     },
     {
       "id": 289578,
@@ -733,13 +733,13 @@
       "away": "Rutgers Scarlet Knights",
       "home_abbr": "UMD",
       "away_abbr": "RUT",
-      "line": -6.5,
+      "line": -1.5,
       "home_bets": 47,
       "home_money": 53,
       "away_bets": 53,
       "away_money": 47,
       "home_score": 23,
-      "away_score": 22
+      "away_score": 23
     },
     {
       "id": 289530,
@@ -753,7 +753,7 @@
       "away": "The Citadel Bulldogs",
       "home_abbr": "TA&M",
       "away_abbr": "CIT",
-      "line": -48.5,
+      "line": -44.5,
       "home_bets": 73,
       "home_money": 68,
       "away_bets": 27,
@@ -778,7 +778,7 @@
       "home_money": 74,
       "away_bets": 55,
       "away_money": 26,
-      "home_score": 8,
+      "home_score": 15,
       "away_score": 15
     },
     {
@@ -793,13 +793,13 @@
       "away": "Charlotte 49ers",
       "home_abbr": "TEM",
       "away_abbr": "CHA",
-      "line": -13.5,
+      "line": -7.5,
       "home_bets": 49,
       "home_money": 18,
       "away_bets": 51,
       "away_money": 82,
       "home_score": 14,
-      "away_score": 7
+      "away_score": 14
     },
     {
       "id": 289571,

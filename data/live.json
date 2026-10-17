@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-17T18:55:47+00:00",
+  "pulled_at": "2026-10-17T19:03:46+00:00",
   "edge_threshold": 15,
   "games": [
     {
@@ -273,7 +273,7 @@
       "away_bets": 70,
       "away_money": 53,
       "home_score": 7,
-      "away_score": 13,
+      "away_score": 19,
       "frozen_at": "2026-10-17T14:43:16+00:00",
       "frozen_for": "kickoff",
       "tue_line": 3.5
@@ -341,7 +341,7 @@
       "home_money": 55,
       "away_bets": 46,
       "away_money": 45,
-      "home_score": 43,
+      "home_score": 37,
       "away_score": 0,
       "frozen_at": "2026-10-17T14:43:16+00:00",
       "frozen_for": "kickoff",
@@ -365,7 +365,7 @@
       "away_bets": 59,
       "away_money": 46,
       "home_score": 17,
-      "away_score": 20,
+      "away_score": 27,
       "frozen_at": "2026-10-17T14:43:16+00:00",
       "frozen_for": "kickoff",
       "tue_line": -10.5
@@ -387,7 +387,7 @@
       "home_money": 39,
       "away_bets": 46,
       "away_money": 61,
-      "home_score": 25,
+      "home_score": 32,
       "away_score": 24,
       "frozen_at": "2026-10-17T14:43:16+00:00",
       "frozen_for": "kickoff",
@@ -434,7 +434,7 @@
       "away_bets": 64,
       "away_money": 76,
       "home_score": 27,
-      "away_score": 18,
+      "away_score": 21,
       "frozen_at": "2026-10-17T14:43:16+00:00",
       "frozen_for": "kickoff",
       "tue_line": 6.5
@@ -480,7 +480,7 @@
       "away_bets": 45,
       "away_money": 49,
       "home_score": 28,
-      "away_score": 28,
+      "away_score": 35,
       "frozen_at": "2026-10-17T14:43:16+00:00",
       "frozen_for": "kickoff",
       "tue_line": -1.5
@@ -503,7 +503,7 @@
       "away_bets": 33,
       "away_money": 25,
       "home_score": 24,
-      "away_score": 17,
+      "away_score": 24,
       "frozen_at": "2026-10-17T14:43:16+00:00",
       "frozen_for": "kickoff",
       "tue_line": -6.5
@@ -549,7 +549,7 @@
       "away_bets": 53,
       "away_money": 47,
       "home_score": 23,
-      "away_score": 22,
+      "away_score": 23,
       "frozen_at": "2026-10-17T16:10:09+00:00",
       "frozen_for": "kickoff",
       "tue_line": -6
@@ -594,7 +594,7 @@
       "home_money": 61,
       "away_bets": 55,
       "away_money": 39,
-      "home_score": 8,
+      "home_score": 15,
       "away_score": 15,
       "frozen_at": "2026-10-17T16:10:09+00:00",
       "frozen_for": "kickoff",
@@ -618,7 +618,7 @@
       "away_bets": 51,
       "away_money": 80,
       "home_score": 14,
-      "away_score": 7,
+      "away_score": 14,
       "frozen_at": "2026-10-17T16:10:09+00:00",
       "frozen_for": "kickoff",
       "tue_line": -21.5

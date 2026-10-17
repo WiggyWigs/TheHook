@@ -1475,6 +1475,18 @@
     "home": "LSU Tigers",
     "start_time": "2026-10-17T16:00:00.000Z"
   },
+  "NCAAF:289499": {
+    "line": -5.5,
+    "home_bets": 47,
+    "home_money": 53,
+    "away_bets": 53,
+    "away_money": 47,
+    "frozen_at": "2026-10-17T16:10:09+00:00",
+    "frozen_for": "kickoff",
+    "away": "Rutgers Scarlet Knights",
+    "home": "Maryland Terrapins",
+    "start_time": "2026-10-17T16:30:00.000Z"
+  },
   "NCAAF:289500": {
     "line": -2.5,
     "home_bets": 56,
@@ -1547,6 +1559,30 @@
     "home": "Kansas State Wildcats",
     "start_time": "2026-10-17T16:00:00.000Z"
   },
+  "NCAAF:289530": {
+    "line": -46.5,
+    "home_bets": 76,
+    "home_money": 71,
+    "away_bets": 24,
+    "away_money": 29,
+    "frozen_at": "2026-10-17T16:10:09+00:00",
+    "frozen_for": "kickoff",
+    "away": "The Citadel Bulldogs",
+    "home": "Texas A&M Aggies",
+    "start_time": "2026-10-17T17:00:00.000Z"
+  },
+  "NCAAF:289539": {
+    "line": -7,
+    "home_bets": 45,
+    "home_money": 61,
+    "away_bets": 55,
+    "away_money": 39,
+    "frozen_at": "2026-10-17T16:10:09+00:00",
+    "frozen_for": "kickoff",
+    "away": "UMass Minutemen",
+    "home": "Buffalo Bulls",
+    "start_time": "2026-10-17T17:00:00.000Z"
+  },
   "NCAAF:289541": {
     "line": 7,
     "home_bets": 29,
@@ -1570,6 +1606,30 @@
     "away": "Pittsburgh Panthers",
     "home": "Boston College Eagles",
     "start_time": "2026-10-17T16:00:00.000Z"
+  },
+  "NCAAF:289559": {
+    "line": -17.5,
+    "home_bets": 49,
+    "home_money": 20,
+    "away_bets": 51,
+    "away_money": 80,
+    "frozen_at": "2026-10-17T16:10:09+00:00",
+    "frozen_for": "kickoff",
+    "away": "Charlotte 49ers",
+    "home": "Temple Owls",
+    "start_time": "2026-10-17T17:00:00.000Z"
+  },
+  "NCAAF:289571": {
+    "line": 7.5,
+    "home_bets": 50,
+    "home_money": 46,
+    "away_bets": 50,
+    "away_money": 54,
+    "frozen_at": "2026-10-17T16:10:09+00:00",
+    "frozen_for": "kickoff",
+    "away": "Western Michigan Broncos",
+    "home": "Central Michigan Chippewas",
+    "start_time": "2026-10-17T17:30:00.000Z"
   },
   "NCAAF:289573": {
     "line": -10,

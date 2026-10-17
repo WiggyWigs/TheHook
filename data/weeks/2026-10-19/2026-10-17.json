@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-17T22:59:50+00:00",
+  "pulled_at": "2026-10-17T23:34:40+00:00",
   "games": [
     {
       "id": 290917,
@@ -34,9 +34,9 @@
       "home_abbr": "JAC",
       "away_abbr": "HOU",
       "line": -2.5,
-      "home_bets": 55,
+      "home_bets": 54,
       "home_money": 50,
-      "away_bets": 45,
+      "away_bets": 46,
       "away_money": 50,
       "home_score": null,
       "away_score": null
@@ -55,9 +55,9 @@
       "away_abbr": "CHI",
       "line": 1.5,
       "home_bets": 62,
-      "home_money": 68,
+      "home_money": 67,
       "away_bets": 38,
-      "away_money": 32,
+      "away_money": 33,
       "home_score": null,
       "away_score": null
     },
@@ -175,9 +175,9 @@
       "away_abbr": "TEN",
       "line": -7,
       "home_bets": 76,
-      "home_money": 85,
+      "home_money": 84,
       "away_bets": 24,
-      "away_money": 15,
+      "away_money": 16,
       "home_score": null,
       "away_score": null
     },
@@ -194,9 +194,9 @@
       "home_abbr": "LA",
       "away_abbr": "ARI",
       "line": -12.5,
-      "home_bets": 69,
+      "home_bets": 70,
       "home_money": 67,
-      "away_bets": 31,
+      "away_bets": 30,
       "away_money": 33,
       "home_score": null,
       "away_score": null
@@ -215,9 +215,9 @@
       "away_abbr": "BUF",
       "line": 5.5,
       "home_bets": 36,
-      "home_money": 42,
+      "home_money": 41,
       "away_bets": 64,
-      "away_money": 58,
+      "away_money": 59,
       "home_score": null,
       "away_score": null
     },
@@ -234,10 +234,10 @@
       "home_abbr": "KC",
       "away_abbr": "LAC",
       "line": -7.5,
-      "home_bets": 62,
-      "home_money": 58,
-      "away_bets": 38,
-      "away_money": 42,
+      "home_bets": 63,
+      "home_money": 59,
+      "away_bets": 37,
+      "away_money": 41,
       "home_score": null,
       "away_score": null
     },
@@ -255,9 +255,9 @@
       "away_abbr": "DAL",
       "line": -1.5,
       "home_bets": 44,
-      "home_money": 37,
+      "home_money": 35,
       "away_bets": 56,
-      "away_money": 63,
+      "away_money": 65,
       "home_score": null,
       "away_score": null
     },
@@ -828,7 +828,7 @@
       "an_week": 7,
       "week_id": "2026-10-19",
       "start_time": "2026-10-17T19:30:00.000Z",
-      "status": "inprogress",
+      "status": "complete",
       "home": "Duke Blue Devils",
       "away": "North Carolina Tar Heels",
       "home_abbr": "DUKE",
@@ -839,7 +839,7 @@
       "away_bets": 70,
       "away_money": 68,
       "home_score": 20,
-      "away_score": 17
+      "away_score": 24
     },
     {
       "id": 289520,
@@ -888,17 +888,17 @@
       "an_week": 7,
       "week_id": "2026-10-19",
       "start_time": "2026-10-17T19:30:00.000Z",
-      "status": "inprogress",
+      "status": "complete",
       "home": "Tennessee Volunteers",
       "away": "Alabama Crimson Tide",
       "home_abbr": "TENN",
       "away_abbr": "BAMA",
-      "line": -12.5,
+      "line": 7.5,
       "home_bets": 27,
       "home_money": 24,
       "away_bets": 73,
       "away_money": 76,
-      "home_score": 25,
+      "home_score": 26,
       "away_score": 10
     },
     {
@@ -928,7 +928,7 @@
       "an_week": 7,
       "week_id": "2026-10-19",
       "start_time": "2026-10-17T19:30:00.000Z",
-      "status": "inprogress",
+      "status": "complete",
       "home": "Michigan Wolverines",
       "away": "Penn State Nittany Lions",
       "home_abbr": "MICH",
@@ -939,7 +939,7 @@
       "away_bets": 72,
       "away_money": 80,
       "home_score": 21,
-      "away_score": 11
+      "away_score": 18
     },
     {
       "id": 289561,
@@ -948,7 +948,7 @@
       "an_week": 7,
       "week_id": "2026-10-19",
       "start_time": "2026-10-17T19:30:00.000Z",
-      "status": "inprogress",
+      "status": "complete",
       "home": "Eastern Michigan Eagles",
       "away": "Toledo Rockets",
       "home_abbr": "EMU",
@@ -988,18 +988,18 @@
       "an_week": 7,
       "week_id": "2026-10-19",
       "start_time": "2026-10-17T19:30:00.000Z",
-      "status": "inprogress",
+      "status": "complete",
       "home": "Georgia Bulldogs",
       "away": "Auburn Tigers",
       "home_abbr": "UGA",
       "away_abbr": "AUB",
-      "line": -2.5,
+      "line": -19.5,
       "home_bets": 65,
       "home_money": 72,
       "away_bets": 35,
       "away_money": 28,
       "home_score": 24,
-      "away_score": 24
+      "away_score": 27
     },
     {
       "id": 289579,
@@ -1008,7 +1008,7 @@
       "an_week": 7,
       "week_id": "2026-10-19",
       "start_time": "2026-10-17T19:30:00.000Z",
-      "status": "inprogress",
+      "status": "complete",
       "home": "Texas Tech Red Raiders",
       "away": "Arizona State Sun Devils",
       "home_abbr": "TTU",
@@ -1028,7 +1028,7 @@
       "an_week": 7,
       "week_id": "2026-10-19",
       "start_time": "2026-10-17T19:30:00.000Z",
-      "status": "inprogress",
+      "status": "complete",
       "home": "Wyoming Cowboys",
       "away": "Northern Illinois Huskies",
       "home_abbr": "WYO",
@@ -1053,13 +1053,13 @@
       "away": "Tulsa Golden Hurricane",
       "home_abbr": "RICE",
       "away_abbr": "TLSA",
-      "line": 8.5,
+      "line": 20.5,
       "home_bets": 40,
       "home_money": 42,
       "away_bets": 60,
       "away_money": 58,
       "home_score": 17,
-      "away_score": 24
+      "away_score": 38
     },
     {
       "id": 289556,
@@ -1073,13 +1073,13 @@
       "away": "Troy Trojans",
       "home_abbr": "UL",
       "away_abbr": "TROY",
-      "line": -19.5,
+      "line": -22.5,
       "home_bets": 53,
       "home_money": 47,
       "away_bets": 47,
       "away_money": 53,
-      "home_score": 19,
-      "away_score": 0
+      "home_score": 26,
+      "away_score": 6
     },
     {
       "id": 289504,
@@ -1098,8 +1098,8 @@
       "home_money": 80,
       "away_bets": 28,
       "away_money": 20,
-      "home_score": 17,
-      "away_score": 0
+      "home_score": 27,
+      "away_score": 10
     },
     {
       "id": 289529,
@@ -1108,7 +1108,7 @@
       "an_week": 7,
       "week_id": "2026-10-19",
       "start_time": "2026-10-17T23:00:00.000Z",
-      "status": "scheduled",
+      "status": "inprogress",
       "home": "North Dakota State Bison",
       "away": "Nevada Wolf Pack",
       "home_abbr": "NDSU",
@@ -1128,18 +1128,18 @@
       "an_week": 7,
       "week_id": "2026-10-19",
       "start_time": "2026-10-17T23:00:00.000Z",
-      "status": "scheduled",
+      "status": "inprogress",
       "home": "Baylor Bears",
       "away": "TCU Horned Frogs",
       "home_abbr": "BAY",
       "away_abbr": "TCU",
-      "line": -4,
+      "line": 2.5,
       "home_bets": 70,
       "home_money": 65,
       "away_bets": 30,
       "away_money": 35,
       "home_score": 0,
-      "away_score": 0
+      "away_score": 7
     },
     {
       "id": 289534,
@@ -1148,12 +1148,12 @@
       "an_week": 7,
       "week_id": "2026-10-19",
       "start_time": "2026-10-17T23:00:00.000Z",
-      "status": "scheduled",
+      "status": "inprogress",
       "home": "South Florida Bulls",
       "away": "Kent State Golden Flashes",
       "home_abbr": "USF",
       "away_abbr": "KENT",
-      "line": -20.5,
+      "line": -11.5,
       "home_bets": 48,
       "home_money": 41,
       "away_bets": 52,
@@ -1168,7 +1168,7 @@
       "an_week": 7,
       "week_id": "2026-10-19",
       "start_time": "2026-10-17T23:00:00.000Z",
-      "status": "scheduled",
+      "status": "inprogress",
       "home": "Southern Miss Golden Eagles",
       "away": "Arkansas State Red Wolves",
       "home_abbr": "USM",
@@ -1179,7 +1179,7 @@
       "away_bets": 33,
       "away_money": 38,
       "home_score": 0,
-      "away_score": 0
+      "away_score": 3
     },
     {
       "id": 289557,
@@ -1188,17 +1188,17 @@
       "an_week": 7,
       "week_id": "2026-10-19",
       "start_time": "2026-10-17T23:00:00.000Z",
-      "status": "scheduled",
+      "status": "inprogress",
       "home": "Miami (FL) Hurricanes",
       "away": "Florida State Seminoles",
       "home_abbr": "MIA",
       "away_abbr": "FSU",
-      "line": -19.5,
+      "line": -20.5,
       "home_bets": 60,
       "home_money": 53,
       "away_bets": 40,
       "away_money": 47,
-      "home_score": 0,
+      "home_score": 7,
       "away_score": 0
     },
     {
@@ -1208,7 +1208,7 @@
       "an_week": 7,
       "week_id": "2026-10-19",
       "start_time": "2026-10-17T23:00:00.000Z",
-      "status": "scheduled",
+      "status": "inprogress",
       "home": "Vanderbilt Commodores",
       "away": "Arkansas Razorbacks",
       "home_abbr": "VAN",
@@ -1228,18 +1228,18 @@
       "an_week": 7,
       "week_id": "2026-10-19",
       "start_time": "2026-10-17T23:30:00.000Z",
-      "status": "scheduled",
+      "status": "inprogress",
       "home": "Stanford Cardinal",
       "away": "Elon Phoenix",
       "home_abbr": "STAN",
       "away_abbr": "ELO",
-      "line": -34.5,
+      "line": -33.5,
       "home_bets": 54,
       "home_money": 19,
       "away_bets": 46,
       "away_money": 81,
-      "home_score": null,
-      "away_score": null
+      "home_score": 0,
+      "away_score": 0
     },
     {
       "id": 289524,
@@ -1258,8 +1258,8 @@
       "home_money": 52,
       "away_bets": 44,
       "away_money": 48,
-      "home_score": null,
-      "away_score": null
+      "home_score": 0,
+      "away_score": 0
     },
     {
       "id": 289536,
@@ -1278,8 +1278,8 @@
       "home_money": 41,
       "away_bets": 77,
       "away_money": 59,
-      "home_score": null,
-      "away_score": null
+      "home_score": 0,
+      "away_score": 0
     },
     {
       "id": 289545,
@@ -1298,8 +1298,8 @@
       "home_money": 45,
       "away_bets": 40,
       "away_money": 55,
-      "home_score": null,
-      "away_score": null
+      "home_score": 0,
+      "away_score": 0
     },
     {
       "id": 289552,
@@ -1318,8 +1318,8 @@
       "home_money": 56,
       "away_bets": 38,
       "away_money": 44,
-      "home_score": null,
-      "away_score": null
+      "home_score": 0,
+      "away_score": 0
     },
     {
       "id": 289572,
@@ -1338,8 +1338,8 @@
       "home_money": 27,
       "away_bets": 76,
       "away_money": 73,
-      "home_score": null,
-      "away_score": null
+      "home_score": 0,
+      "away_score": 0
     },
     {
       "id": 289494,
@@ -1413,7 +1413,7 @@
       "away": "Ohio Bobcats",
       "home_abbr": "SAC",
       "away_abbr": "OHIO",
-      "line": 15.5,
+      "line": 16.5,
       "home_bets": 49,
       "home_money": 46,
       "away_bets": 51,

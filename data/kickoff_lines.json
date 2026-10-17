@@ -1511,6 +1511,18 @@
     "home": "Texas State Bobcats",
     "start_time": "2026-10-16T00:00:00.000Z"
   },
+  "NCAAF:289504": {
+    "line": -18.5,
+    "home_bets": 72,
+    "home_money": 80,
+    "away_bets": 28,
+    "away_money": 20,
+    "frozen_at": "2026-10-17T21:23:25+00:00",
+    "frozen_for": "kickoff",
+    "away": "Washington State Cougars",
+    "home": "Oregon State Beavers",
+    "start_time": "2026-10-17T22:00:00.000Z"
+  },
   "NCAAF:289505": {
     "line": -3,
     "home_bets": 47,

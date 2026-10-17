@@ -2727,6 +2727,28 @@
     "away_score": 27,
     "final": true
   },
+  "NCAAF:289504": {
+    "league": "NCAAF",
+    "season": 2026,
+    "an_week": 7,
+    "week_id": "2026-10-19",
+    "start_time": "2026-10-17T22:00:00.000Z",
+    "home": "Oregon State Beavers",
+    "away": "Washington State Cougars",
+    "home_abbr": "ORST",
+    "away_abbr": "WSU",
+    "tue_line": -17.5,
+    "line": -18.5,
+    "home_bets": 72,
+    "home_money": 80,
+    "away_bets": 28,
+    "away_money": 20,
+    "frozen_at": "2026-10-17T21:23:25+00:00",
+    "frozen_for": "kickoff",
+    "home_score": null,
+    "away_score": null,
+    "final": false
+  },
   "NCAAF:289505": {
     "league": "NCAAF",
     "season": 2026,
@@ -2833,9 +2855,9 @@
     "away_money": 42,
     "frozen_at": "2026-10-17T19:03:46+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 34,
+    "away_score": 14,
+    "final": true
   },
   "NCAAF:289522": {
     "league": "NCAAF",
@@ -2899,9 +2921,9 @@
     "away_money": 76,
     "frozen_at": "2026-10-17T19:03:46+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 41,
+    "away_score": 31,
+    "final": true
   },
   "NCAAF:289539": {
     "league": "NCAAF",
@@ -2987,9 +3009,9 @@
     "away_money": 40,
     "frozen_at": "2026-10-17T19:03:46+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 31,
+    "away_score": 3,
+    "final": true
   },
   "NCAAF:289553": {
     "league": "NCAAF",
@@ -3119,9 +3141,9 @@
     "away_money": 75,
     "frozen_at": "2026-10-17T19:03:46+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 34,
+    "away_score": 24,
+    "final": true
   },
   "NCAAF:289567": {
     "league": "NCAAF",
@@ -3317,9 +3339,9 @@
     "away_money": 51,
     "frozen_at": "2026-10-17T19:03:46+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 41,
+    "away_score": 23,
+    "final": true
   },
   "NCAAF:289707": {
     "league": "NCAAF",

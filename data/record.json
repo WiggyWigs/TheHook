@@ -3893,6 +3893,28 @@
     "away_score": 17,
     "final": true
   },
+  "NFL:290821": {
+    "league": "NFL",
+    "season": 2026,
+    "an_week": 6,
+    "week_id": "2026-10-19",
+    "start_time": "2026-10-18T13:30:00.000Z",
+    "home": "Jacksonville Jaguars",
+    "away": "Houston Texans",
+    "home_abbr": "JAC",
+    "away_abbr": "HOU",
+    "tue_line": -3,
+    "line": -2.5,
+    "home_bets": 50,
+    "home_money": 49,
+    "away_bets": 50,
+    "away_money": 51,
+    "frozen_at": "2026-10-18T11:58:26+00:00",
+    "frozen_for": "kickoff",
+    "home_score": null,
+    "away_score": null,
+    "final": false
+  },
   "NFL:290888": {
     "league": "NFL",
     "season": 2026,

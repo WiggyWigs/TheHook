@@ -1475,6 +1475,18 @@
     "home": "LSU Tigers",
     "start_time": "2026-10-17T16:00:00.000Z"
   },
+  "NCAAF:289494": {
+    "line": 13.5,
+    "home_bets": 61,
+    "home_money": 75,
+    "away_bets": 39,
+    "away_money": 25,
+    "frozen_at": "2026-10-17T23:34:40+00:00",
+    "frozen_for": "kickoff",
+    "away": "Louisiana Tech Bulldogs",
+    "home": "UL-Monroe Warhawks",
+    "start_time": "2026-10-18T00:00:00.000Z"
+  },
   "NCAAF:289495": {
     "line": -34.5,
     "home_bets": 54,
@@ -1846,6 +1858,18 @@
     "away": "Toledo Rockets",
     "home": "Eastern Michigan Eagles",
     "start_time": "2026-10-17T19:30:00.000Z"
+  },
+  "NCAAF:289563": {
+    "line": -5.5,
+    "home_bets": 73,
+    "home_money": 73,
+    "away_bets": 27,
+    "away_money": 27,
+    "frozen_at": "2026-10-17T23:34:40+00:00",
+    "frozen_for": "kickoff",
+    "away": "Navy Midshipmen",
+    "home": "UTSA Roadrunners",
+    "start_time": "2026-10-18T00:00:00.000Z"
   },
   "NCAAF:289565": {
     "line": -8.5,

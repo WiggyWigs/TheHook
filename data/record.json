@@ -2661,6 +2661,28 @@
     "away_score": 0,
     "final": true
   },
+  "NCAAF:289494": {
+    "league": "NCAAF",
+    "season": 2026,
+    "an_week": 7,
+    "week_id": "2026-10-19",
+    "start_time": "2026-10-18T00:00:00.000Z",
+    "home": "UL-Monroe Warhawks",
+    "away": "Louisiana Tech Bulldogs",
+    "home_abbr": "ULM",
+    "away_abbr": "LT",
+    "tue_line": 15.5,
+    "line": 13.5,
+    "home_bets": 61,
+    "home_money": 75,
+    "away_bets": 39,
+    "away_money": 25,
+    "frozen_at": "2026-10-17T23:34:40+00:00",
+    "frozen_for": "kickoff",
+    "home_score": null,
+    "away_score": null,
+    "final": false
+  },
   "NCAAF:289495": {
     "league": "NCAAF",
     "season": 2026,
@@ -3273,9 +3295,9 @@
     "away_money": 53,
     "frozen_at": "2026-10-17T19:03:46+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 33,
+    "away_score": 6,
+    "final": true
   },
   "NCAAF:289557": {
     "league": "NCAAF",
@@ -3343,6 +3365,28 @@
     "away_score": 34,
     "final": true
   },
+  "NCAAF:289563": {
+    "league": "NCAAF",
+    "season": 2026,
+    "an_week": 7,
+    "week_id": "2026-10-19",
+    "start_time": "2026-10-18T00:00:00.000Z",
+    "home": "UTSA Roadrunners",
+    "away": "Navy Midshipmen",
+    "home_abbr": "UTSA",
+    "away_abbr": "NAVY",
+    "tue_line": -6.5,
+    "line": -5.5,
+    "home_bets": 73,
+    "home_money": 73,
+    "away_bets": 27,
+    "away_money": 27,
+    "frozen_at": "2026-10-17T23:34:40+00:00",
+    "frozen_for": "kickoff",
+    "home_score": null,
+    "away_score": null,
+    "final": false
+  },
   "NCAAF:289565": {
     "league": "NCAAF",
     "season": 2026,
@@ -3405,9 +3449,9 @@
     "away_money": 58,
     "frozen_at": "2026-10-17T19:03:46+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 17,
+    "away_score": 38,
+    "final": true
   },
   "NCAAF:289571": {
     "league": "NCAAF",

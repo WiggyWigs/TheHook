@@ -2662,5 +2662,17 @@
     "away": "Los Angeles Chargers",
     "home": "Kansas City Chiefs",
     "start_time": "2026-10-18T20:25:00.000Z"
+  },
+  "NFL:290928": {
+    "line": 1.5,
+    "home_bets": 40,
+    "home_money": 39,
+    "away_bets": 60,
+    "away_money": 61,
+    "frozen_at": "2026-10-18T22:51:22+00:00",
+    "frozen_for": "kickoff",
+    "away": "Dallas Cowboys",
+    "home": "Green Bay Packers",
+    "start_time": "2026-10-19T00:20:00.000Z"
   }
 }

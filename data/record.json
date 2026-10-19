@@ -4747,9 +4747,9 @@
     "away_money": 24,
     "frozen_at": "2026-10-18T19:17:27+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 16,
+    "away_score": 18,
+    "final": true
   },
   "NFL:290926": {
     "league": "NFL",
@@ -4769,9 +4769,9 @@
     "away_money": 63,
     "frozen_at": "2026-10-18T19:17:27+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 30,
+    "away_score": 33,
+    "final": true
   },
   "NFL:290927": {
     "league": "NFL",
@@ -4790,6 +4790,28 @@
     "away_bets": 34,
     "away_money": 38,
     "frozen_at": "2026-10-18T19:17:27+00:00",
+    "frozen_for": "kickoff",
+    "home_score": 22,
+    "away_score": 6,
+    "final": true
+  },
+  "NFL:290928": {
+    "league": "NFL",
+    "season": 2026,
+    "an_week": 6,
+    "week_id": "2026-10-19",
+    "start_time": "2026-10-19T00:20:00.000Z",
+    "home": "Green Bay Packers",
+    "away": "Dallas Cowboys",
+    "home_abbr": "GB",
+    "away_abbr": "DAL",
+    "tue_line": -1.5,
+    "line": 1.5,
+    "home_bets": 40,
+    "home_money": 39,
+    "away_bets": 60,
+    "away_money": 61,
+    "frozen_at": "2026-10-18T22:51:22+00:00",
     "frozen_for": "kickoff",
     "home_score": null,
     "away_score": null,

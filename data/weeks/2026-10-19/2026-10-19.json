@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-19T05:51:41+00:00",
+  "pulled_at": "2026-10-19T14:26:33+00:00",
   "games": [
     {
       "id": 290917,
@@ -33,11 +33,11 @@
       "away": "Houston Texans",
       "home_abbr": "JAC",
       "away_abbr": "HOU",
-      "line": null,
-      "home_bets": null,
-      "home_money": null,
-      "away_bets": null,
-      "away_money": null,
+      "line": -2.5,
+      "home_bets": 50,
+      "home_money": 48,
+      "away_bets": 50,
+      "away_money": 52,
       "home_score": 31,
       "away_score": 34
     },
@@ -274,10 +274,10 @@
       "home_abbr": "SF",
       "away_abbr": "WAS",
       "line": -7.5,
-      "home_bets": 79,
-      "home_money": 87,
-      "away_bets": 21,
-      "away_money": 13,
+      "home_bets": 78,
+      "home_money": 85,
+      "away_bets": 22,
+      "away_money": 15,
       "home_score": null,
       "away_score": null
     }

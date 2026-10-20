@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-19T20:26:08+00:00",
+  "pulled_at": "2026-10-20T00:08:42+00:00",
   "edge_threshold": 15,
   "games": [
     {
@@ -1740,12 +1740,12 @@
       "home_abbr": "SF",
       "away_abbr": "WAS",
       "line": -7.5,
-      "home_bets": 76,
-      "home_money": 78,
-      "away_bets": 24,
-      "away_money": 22,
-      "home_score": null,
-      "away_score": null,
+      "home_bets": 72,
+      "home_money": 68,
+      "away_bets": 28,
+      "away_money": 32,
+      "home_score": 0,
+      "away_score": 0,
       "tue_line": -7.5
     }
   ]

@@ -4816,5 +4816,27 @@
     "home_score": 23,
     "away_score": 13,
     "final": true
+  },
+  "NFL:290929": {
+    "league": "NFL",
+    "season": 2026,
+    "an_week": 6,
+    "week_id": "2026-10-19",
+    "start_time": "2026-10-20T00:15:00.000Z",
+    "home": "San Francisco 49ers",
+    "away": "Washington Commanders",
+    "home_abbr": "SF",
+    "away_abbr": "WAS",
+    "tue_line": -7.5,
+    "line": -7.5,
+    "home_bets": 72,
+    "home_money": 68,
+    "away_bets": 28,
+    "away_money": 32,
+    "frozen_at": "2026-10-20T00:08:42+00:00",
+    "frozen_for": "kickoff",
+    "home_score": 23,
+    "away_score": 17,
+    "final": true
   }
 }

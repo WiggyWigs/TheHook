@@ -2674,5 +2674,17 @@
     "away": "Dallas Cowboys",
     "home": "Green Bay Packers",
     "start_time": "2026-10-19T00:20:00.000Z"
+  },
+  "NFL:290929": {
+    "line": -7.5,
+    "home_bets": 72,
+    "home_money": 68,
+    "away_bets": 28,
+    "away_money": 32,
+    "frozen_at": "2026-10-20T00:08:42+00:00",
+    "frozen_for": "kickoff",
+    "away": "Washington Commanders",
+    "home": "San Francisco 49ers",
+    "start_time": "2026-10-20T00:15:00.000Z"
   }
 }

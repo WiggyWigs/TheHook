@@ -14,7 +14,13 @@ on:
     - cron: "5 9-23/2 * * 3"     # Wed 09:05-23:05 UTC
     - cron: "5 1-23/2 * * 4,5,6" # Thu, Fri, Sat - every odd UTC hour
     - cron: "5 1-23/2 * * 0,1"   # Sun, Mon - every odd UTC hour (last before MNF kickoff: Mon 23:05)
-  workflow_dispatch: {} # run a pull by hand from the Actions tab
+  workflow_dispatch: # run a pull by hand from the Actions tab, or the site's Pull now button
+    inputs:
+      source:
+        description: "Who started it (the Pull now button sends 'button')"
+        required: false
+        default: "actions"
+        type: string
 
 permissions:
   contents: write
@@ -34,6 +40,9 @@ jobs:
           python-version: "3.12"
 
       - name: Pull lines and splits from Action Network
+        env:
+          # "button" = the site's Pull now button, locked Tuesday 12 AM-12 PM Eastern
+          PULL_SOURCE: ${{ inputs.source }}
         run: python scripts/fetch_hook.py
 
       # Rebase before pushing: the photo workflow and uploads push to the same

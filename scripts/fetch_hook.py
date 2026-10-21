@@ -20,6 +20,7 @@ The page shows one week at a time and turns over on Tuesday.
 """
 import copy
 import json
+import os
 import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -257,8 +258,19 @@ def fetch_finals(games, record, now):
 
 # --- Main ------------------------------------------------------------------------------
 
+def button_locked(now):
+    """The site's Pull now button (PULL_SOURCE=button) is locked Tuesday
+    12 AM-12 PM Eastern, so it can't take the Tuesday line that early.
+    Runs from the Actions tab aren't affected."""
+    local = now.astimezone(EASTERN)
+    return os.environ.get("PULL_SOURCE") == "button" and local.weekday() == 1 and local.hour < 12
+
+
 def main():
     now = datetime.now(timezone.utc)
+    if button_locked(now):
+        print("Pull now button: locked Tuesday until 12 PM Eastern - nothing pulled.")
+        return
     today = now.astimezone(EASTERN).date().isoformat()
 
     feed = []

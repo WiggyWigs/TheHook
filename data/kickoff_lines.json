@@ -2255,6 +2255,30 @@
     "home": "Michigan Wolverines",
     "start_time": "2026-10-24T16:00:00.000Z"
   },
+  "NCAAF:289615": {
+    "line": -3,
+    "home_bets": 54,
+    "home_money": 57,
+    "away_bets": 46,
+    "away_money": 43,
+    "frozen_at": "2026-10-24T21:57:42+00:00",
+    "frozen_for": "kickoff",
+    "away": "Virginia Tech Hokies",
+    "home": "Clemson Tigers",
+    "start_time": "2026-10-24T23:00:00.000Z"
+  },
+  "NCAAF:289616": {
+    "line": 14.5,
+    "home_bets": 23,
+    "home_money": 14,
+    "away_bets": 77,
+    "away_money": 86,
+    "frozen_at": "2026-10-24T21:57:42+00:00",
+    "frozen_for": "kickoff",
+    "away": "Boise State Broncos",
+    "home": "Washington State Cougars",
+    "start_time": "2026-10-24T22:00:00.000Z"
+  },
   "NCAAF:289617": {
     "line": -6.5,
     "home_bets": 60,
@@ -2291,6 +2315,18 @@
     "home": "Buffalo Bulls",
     "start_time": "2026-10-24T19:30:00.000Z"
   },
+  "NCAAF:289628": {
+    "line": -12.5,
+    "home_bets": 59,
+    "home_money": 55,
+    "away_bets": 41,
+    "away_money": 45,
+    "frozen_at": "2026-10-24T21:57:42+00:00",
+    "frozen_for": "kickoff",
+    "away": "Colorado Buffaloes",
+    "home": "Oklahoma State Cowboys",
+    "start_time": "2026-10-24T23:00:00.000Z"
+  },
   "NCAAF:289630": {
     "line": -12.5,
     "home_bets": 34,
@@ -2302,6 +2338,18 @@
     "away": "UMass Minutemen",
     "home": "UConn Huskies",
     "start_time": "2026-10-23T23:00:00.000Z"
+  },
+  "NCAAF:289632": {
+    "line": -1.5,
+    "home_bets": 50,
+    "home_money": 52,
+    "away_bets": 50,
+    "away_money": 48,
+    "frozen_at": "2026-10-24T21:57:42+00:00",
+    "frozen_for": "kickoff",
+    "away": "San Diego State Aztecs",
+    "home": "Colorado State Rams",
+    "start_time": "2026-10-24T22:30:00.000Z"
   },
   "NCAAF:289633": {
     "line": 3,
@@ -2554,6 +2602,18 @@
     "away": "Akron Zips",
     "home": "Kent State Golden Flashes",
     "start_time": "2026-10-24T17:00:00.000Z"
+  },
+  "NCAAF:289682": {
+    "line": 2.5,
+    "home_bets": 30,
+    "home_money": 23,
+    "away_bets": 70,
+    "away_money": 77,
+    "frozen_at": "2026-10-24T21:57:42+00:00",
+    "frozen_for": "kickoff",
+    "away": "Georgia State Panthers",
+    "home": "Arkansas State Red Wolves",
+    "start_time": "2026-10-24T23:00:00.000Z"
   },
   "NCAAF:289686": {
     "line": -13.5,

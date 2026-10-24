@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-24T13:06:09+00:00",
+  "pulled_at": "2026-10-24T13:09:21+00:00",
   "edge_threshold": 15,
   "games": [
     {
@@ -314,10 +314,10 @@
       "home_abbr": "TOL",
       "away_abbr": "WMU",
       "line": -2.5,
-      "home_bets": 57,
-      "home_money": 54,
-      "away_bets": 43,
-      "away_money": 46,
+      "home_bets": 58,
+      "home_money": 55,
+      "away_bets": 42,
+      "away_money": 45,
       "home_score": null,
       "away_score": null,
       "tue_line": -3
@@ -378,9 +378,9 @@
       "away_abbr": "RICE",
       "line": -8.5,
       "home_bets": 65,
-      "home_money": 66,
+      "home_money": 65,
       "away_bets": 35,
-      "away_money": 34,
+      "away_money": 35,
       "home_score": null,
       "away_score": null,
       "tue_line": -7.5
@@ -860,10 +860,10 @@
       "home_abbr": "OHIO",
       "away_abbr": "EMU",
       "line": -10,
-      "home_bets": 44,
-      "home_money": 23,
-      "away_bets": 56,
-      "away_money": 77,
+      "home_bets": 45,
+      "home_money": 25,
+      "away_bets": 55,
+      "away_money": 75,
       "home_score": null,
       "away_score": null,
       "tue_line": -12.5

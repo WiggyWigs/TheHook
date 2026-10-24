@@ -2195,6 +2195,30 @@
     "home": "Stanford Cardinal",
     "start_time": "2026-10-24T02:30:00.000Z"
   },
+  "NCAAF:289608": {
+    "line": -2.5,
+    "home_bets": 58,
+    "home_money": 57,
+    "away_bets": 42,
+    "away_money": 43,
+    "frozen_at": "2026-10-24T15:46:40+00:00",
+    "frozen_for": "kickoff",
+    "away": "Western Michigan Broncos",
+    "home": "Toledo Rockets",
+    "start_time": "2026-10-24T16:00:00.000Z"
+  },
+  "NCAAF:289614": {
+    "line": 7.5,
+    "home_bets": 33,
+    "home_money": 36,
+    "away_bets": 67,
+    "away_money": 64,
+    "frozen_at": "2026-10-24T15:46:40+00:00",
+    "frozen_for": "kickoff",
+    "away": "Indiana Hoosiers",
+    "home": "Michigan Wolverines",
+    "start_time": "2026-10-24T16:00:00.000Z"
+  },
   "NCAAF:289630": {
     "line": -12.5,
     "home_bets": 34,
@@ -2207,6 +2231,78 @@
     "home": "UConn Huskies",
     "start_time": "2026-10-23T23:00:00.000Z"
   },
+  "NCAAF:289635": {
+    "line": 3.5,
+    "home_bets": 36,
+    "home_money": 14,
+    "away_bets": 64,
+    "away_money": 86,
+    "frozen_at": "2026-10-24T15:46:40+00:00",
+    "frozen_for": "kickoff",
+    "away": "Miami (OH) RedHawks",
+    "home": "Central Michigan Chippewas",
+    "start_time": "2026-10-24T17:00:00.000Z"
+  },
+  "NCAAF:289639": {
+    "line": -20.5,
+    "home_bets": 53,
+    "home_money": 65,
+    "away_bets": 47,
+    "away_money": 35,
+    "frozen_at": "2026-10-24T15:46:40+00:00",
+    "frozen_for": "kickoff",
+    "away": "Pittsburgh Panthers",
+    "home": "Miami (FL) Hurricanes",
+    "start_time": "2026-10-24T16:00:00.000Z"
+  },
+  "NCAAF:289641": {
+    "line": -10,
+    "home_bets": 68,
+    "home_money": 67,
+    "away_bets": 32,
+    "away_money": 33,
+    "frozen_at": "2026-10-24T15:46:40+00:00",
+    "frozen_for": "kickoff",
+    "away": "Rice Owls",
+    "home": "Florida Atlantic Owls",
+    "start_time": "2026-10-24T16:00:00.000Z"
+  },
+  "NCAAF:289642": {
+    "line": -14.5,
+    "home_bets": 52,
+    "home_money": 48,
+    "away_bets": 48,
+    "away_money": 52,
+    "frozen_at": "2026-10-24T15:46:40+00:00",
+    "frozen_for": "kickoff",
+    "away": "Rutgers Scarlet Knights",
+    "home": "Northwestern Wildcats",
+    "start_time": "2026-10-24T16:00:00.000Z"
+  },
+  "NCAAF:289649": {
+    "line": -1.5,
+    "home_bets": 33,
+    "home_money": 53,
+    "away_bets": 67,
+    "away_money": 47,
+    "frozen_at": "2026-10-24T15:46:40+00:00",
+    "frozen_for": "kickoff",
+    "away": "Baylor Bears",
+    "home": "Kansas Jayhawks",
+    "start_time": "2026-10-24T17:00:00.000Z"
+  },
+  "NCAAF:289653": {
+    "line": -18.5,
+    "home_bets": 42,
+    "home_money": 43,
+    "away_bets": 58,
+    "away_money": 57,
+    "frozen_at": "2026-10-24T15:46:40+00:00",
+    "frozen_for": "kickoff",
+    "away": "California Golden Bears",
+    "home": "SMU Mustangs",
+    "start_time": "2026-10-24T16:00:00.000Z"
+  },
   "NCAAF:289667": {
     "line": 5.5,
     "home_bets": 46,
@@ -2218,6 +2314,54 @@
     "away": "Air Force Falcons",
     "home": "Wyoming Cowboys",
     "start_time": "2026-10-24T01:00:00.000Z"
+  },
+  "NCAAF:289669": {
+    "line": 7,
+    "home_bets": 54,
+    "home_money": 54,
+    "away_bets": 46,
+    "away_money": 46,
+    "frozen_at": "2026-10-24T15:46:40+00:00",
+    "frozen_for": "kickoff",
+    "away": "LSU Tigers",
+    "home": "Auburn Tigers",
+    "start_time": "2026-10-24T16:00:00.000Z"
+  },
+  "NCAAF:289676": {
+    "line": 11.5,
+    "home_bets": 41,
+    "home_money": 47,
+    "away_bets": 59,
+    "away_money": 53,
+    "frozen_at": "2026-10-24T15:46:40+00:00",
+    "frozen_for": "kickoff",
+    "away": "Texas Tech Red Raiders",
+    "home": "Cincinnati Bearcats",
+    "start_time": "2026-10-24T16:00:00.000Z"
+  },
+  "NCAAF:289680": {
+    "line": -3,
+    "home_bets": 68,
+    "home_money": 64,
+    "away_bets": 32,
+    "away_money": 36,
+    "frozen_at": "2026-10-24T15:46:40+00:00",
+    "frozen_for": "kickoff",
+    "away": "Akron Zips",
+    "home": "Kent State Golden Flashes",
+    "start_time": "2026-10-24T17:00:00.000Z"
+  },
+  "NCAAF:289690": {
+    "line": -10.5,
+    "home_bets": 23,
+    "home_money": 21,
+    "away_bets": 77,
+    "away_money": 79,
+    "frozen_at": "2026-10-24T15:46:40+00:00",
+    "frozen_for": "kickoff",
+    "away": "West Virginia Mountaineers",
+    "home": "TCU Horned Frogs",
+    "start_time": "2026-10-24T16:00:00.000Z"
   },
   "NCAAF:289707": {
     "line": 1.5,

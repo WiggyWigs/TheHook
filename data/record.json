@@ -4087,9 +4087,9 @@
     "away_money": 43,
     "frozen_at": "2026-10-24T21:57:42+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 16,
+    "away_score": 20,
+    "final": true
   },
   "NCAAF:289616": {
     "league": "NCAAF",
@@ -4109,9 +4109,9 @@
     "away_money": 86,
     "frozen_at": "2026-10-24T21:57:42+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 10,
+    "away_score": 31,
+    "final": true
   },
   "NCAAF:289617": {
     "league": "NCAAF",
@@ -4157,6 +4157,28 @@
     "away_score": 24,
     "final": true
   },
+  "NCAAF:289623": {
+    "league": "NCAAF",
+    "season": 2026,
+    "an_week": 8,
+    "week_id": "2026-10-26",
+    "start_time": "2026-10-25T02:15:00.000Z",
+    "home": "Utah Utes",
+    "away": "Houston Cougars",
+    "home_abbr": "UTAH",
+    "away_abbr": "HOU",
+    "tue_line": -6.5,
+    "line": -6.5,
+    "home_bets": 26,
+    "home_money": 25,
+    "away_bets": 74,
+    "away_money": 75,
+    "frozen_at": "2026-10-25T00:53:24+00:00",
+    "frozen_for": "kickoff",
+    "home_score": null,
+    "away_score": null,
+    "final": false
+  },
   "NCAAF:289624": {
     "league": "NCAAF",
     "season": 2026,
@@ -4197,9 +4219,9 @@
     "away_money": 45,
     "frozen_at": "2026-10-24T21:57:42+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 57,
+    "away_score": 24,
+    "final": true
   },
   "NCAAF:289630": {
     "league": "NCAAF",
@@ -4241,9 +4263,9 @@
     "away_money": 48,
     "frozen_at": "2026-10-24T21:57:42+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 56,
+    "away_score": 49,
+    "final": true
   },
   "NCAAF:289633": {
     "league": "NCAAF",
@@ -4307,9 +4329,9 @@
     "away_money": 80,
     "frozen_at": "2026-10-24T23:23:07+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 34,
+    "away_score": 27,
+    "final": true
   },
   "NCAAF:289639": {
     "league": "NCAAF",
@@ -4395,9 +4417,9 @@
     "away_money": 55,
     "frozen_at": "2026-10-24T23:23:07+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 20,
+    "away_score": 17,
+    "final": true
   },
   "NCAAF:289644": {
     "league": "NCAAF",
@@ -4419,6 +4441,28 @@
     "frozen_for": "kickoff",
     "home_score": 28,
     "away_score": 10,
+    "final": true
+  },
+  "NCAAF:289645": {
+    "league": "NCAAF",
+    "season": 2026,
+    "an_week": 8,
+    "week_id": "2026-10-26",
+    "start_time": "2026-10-25T02:00:00.000Z",
+    "home": "New Mexico Lobos",
+    "away": "North Dakota State Bison",
+    "home_abbr": "UNM",
+    "away_abbr": "NDSU",
+    "tue_line": -4.5,
+    "line": -4.5,
+    "home_bets": 41,
+    "home_money": 56,
+    "away_bets": 59,
+    "away_money": 44,
+    "frozen_at": "2026-10-25T00:53:24+00:00",
+    "frozen_for": "kickoff",
+    "home_score": 21,
+    "away_score": 16,
     "final": true
   },
   "NCAAF:289647": {
@@ -4505,9 +4549,9 @@
     "away_money": 51,
     "frozen_at": "2026-10-24T23:23:07+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 39,
+    "away_score": 3,
+    "final": true
   },
   "NCAAF:289656": {
     "league": "NCAAF",
@@ -4549,9 +4593,9 @@
     "away_money": 59,
     "frozen_at": "2026-10-24T23:23:07+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 30,
+    "away_score": 31,
+    "final": true
   },
   "NCAAF:289661": {
     "league": "NCAAF",
@@ -4571,9 +4615,9 @@
     "away_money": 68,
     "frozen_at": "2026-10-24T23:23:07+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 19,
+    "away_score": 42,
+    "final": true
   },
   "NCAAF:289663": {
     "league": "NCAAF",
@@ -4681,9 +4725,9 @@
     "away_money": 34,
     "frozen_at": "2026-10-24T23:23:07+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 34,
+    "away_score": 17,
+    "final": true
   },
   "NCAAF:289669": {
     "league": "NCAAF",
@@ -4857,9 +4901,9 @@
     "away_money": 77,
     "frozen_at": "2026-10-24T21:57:42+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 38,
+    "away_score": 32,
+    "final": true
   },
   "NCAAF:289686": {
     "league": "NCAAF",
@@ -4901,9 +4945,9 @@
     "away_money": 50,
     "frozen_at": "2026-10-24T23:23:07+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 24,
+    "away_score": 7,
+    "final": true
   },
   "NCAAF:289690": {
     "league": "NCAAF",

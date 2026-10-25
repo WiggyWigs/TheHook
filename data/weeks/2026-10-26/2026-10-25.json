@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-25T12:24:04+00:00",
+  "pulled_at": "2026-10-25T16:58:54+00:00",
   "games": [
     {
       "id": 290930,
@@ -28,7 +28,7 @@
       "an_week": 7,
       "week_id": "2026-10-26",
       "start_time": "2026-10-25T13:30:00.000Z",
-      "status": "scheduled",
+      "status": "complete",
       "home": "New Orleans Saints",
       "away": "Pittsburgh Steelers",
       "home_abbr": "NO",
@@ -38,8 +38,8 @@
       "home_money": 45,
       "away_bets": 51,
       "away_money": 55,
-      "home_score": null,
-      "away_score": null
+      "home_score": 10,
+      "away_score": 16
     },
     {
       "id": 290931,
@@ -53,13 +53,13 @@
       "away": "New York Giants",
       "home_abbr": "HOU",
       "away_abbr": "NYG",
-      "line": -10.5,
-      "home_bets": 50,
-      "home_money": 58,
-      "away_bets": 50,
-      "away_money": 42,
-      "home_score": null,
-      "away_score": null
+      "line": -10,
+      "home_bets": 48,
+      "home_money": 60,
+      "away_bets": 52,
+      "away_money": 40,
+      "home_score": 0,
+      "away_score": 0
     },
     {
       "id": 290932,
@@ -74,12 +74,12 @@
       "home_abbr": "ATL",
       "away_abbr": "SF",
       "line": 2.5,
-      "home_bets": 37,
-      "home_money": 46,
-      "away_bets": 63,
-      "away_money": 54,
-      "home_score": null,
-      "away_score": null
+      "home_bets": 39,
+      "home_money": 47,
+      "away_bets": 61,
+      "away_money": 53,
+      "home_score": 0,
+      "away_score": 0
     },
     {
       "id": 290933,
@@ -94,12 +94,12 @@
       "home_abbr": "CAR",
       "away_abbr": "TB",
       "line": -3,
-      "home_bets": 64,
-      "home_money": 57,
-      "away_bets": 36,
-      "away_money": 43,
-      "home_score": null,
-      "away_score": null
+      "home_bets": 63,
+      "home_money": 58,
+      "away_bets": 37,
+      "away_money": 42,
+      "home_score": 0,
+      "away_score": 0
     },
     {
       "id": 290934,
@@ -114,12 +114,12 @@
       "home_abbr": "TEN",
       "away_abbr": "CLE",
       "line": 1.5,
-      "home_bets": 32,
-      "home_money": 36,
-      "away_bets": 68,
-      "away_money": 64,
-      "home_score": null,
-      "away_score": null
+      "home_bets": 33,
+      "home_money": 41,
+      "away_bets": 67,
+      "away_money": 59,
+      "home_score": 0,
+      "away_score": 0
     },
     {
       "id": 290935,
@@ -134,12 +134,12 @@
       "home_abbr": "BAL",
       "away_abbr": "CIN",
       "line": 3,
-      "home_bets": 31,
-      "home_money": 24,
-      "away_bets": 69,
-      "away_money": 76,
-      "home_score": null,
-      "away_score": null
+      "home_bets": 33,
+      "home_money": 26,
+      "away_bets": 67,
+      "away_money": 74,
+      "home_score": 0,
+      "away_score": 0
     },
     {
       "id": 290936,
@@ -153,13 +153,13 @@
       "away": "Miami Dolphins",
       "home_abbr": "NYJ",
       "away_abbr": "MIA",
-      "line": -4.5,
+      "line": -3.5,
       "home_bets": 54,
-      "home_money": 50,
+      "home_money": 46,
       "away_bets": 46,
-      "away_money": 50,
-      "home_score": null,
-      "away_score": null
+      "away_money": 54,
+      "home_score": 0,
+      "away_score": 0
     },
     {
       "id": 290937,
@@ -175,11 +175,11 @@
       "away_abbr": "IND",
       "line": -6.5,
       "home_bets": 49,
-      "home_money": 50,
+      "home_money": 48,
       "away_bets": 51,
-      "away_money": 50,
-      "home_score": null,
-      "away_score": null
+      "away_money": 52,
+      "home_score": 0,
+      "away_score": 0
     },
     {
       "id": 290938,
@@ -194,9 +194,9 @@
       "home_abbr": "ARI",
       "away_abbr": "DEN",
       "line": 4.5,
-      "home_bets": 39,
+      "home_bets": 38,
       "home_money": 39,
-      "away_bets": 61,
+      "away_bets": 62,
       "away_money": 61,
       "home_score": null,
       "away_score": null
@@ -214,10 +214,10 @@
       "home_abbr": "DET",
       "away_abbr": "GB",
       "line": -3.5,
-      "home_bets": 36,
-      "home_money": 37,
-      "away_bets": 64,
-      "away_money": 63,
+      "home_bets": 37,
+      "home_money": 60,
+      "away_bets": 63,
+      "away_money": 40,
       "home_score": null,
       "away_score": null
     },
@@ -234,10 +234,10 @@
       "home_abbr": "LV",
       "away_abbr": "LA",
       "line": 3.5,
-      "home_bets": 61,
-      "home_money": 55,
-      "away_bets": 39,
-      "away_money": 45,
+      "home_bets": 62,
+      "home_money": 58,
+      "away_bets": 38,
+      "away_money": 42,
       "home_score": null,
       "away_score": null
     },
@@ -254,9 +254,9 @@
       "home_abbr": "SEA",
       "away_abbr": "KC",
       "line": -3,
-      "home_bets": 11,
+      "home_bets": 13,
       "home_money": 16,
-      "away_bets": 89,
+      "away_bets": 87,
       "away_money": 84,
       "home_score": null,
       "away_score": null
@@ -274,10 +274,10 @@
       "home_abbr": "PHI",
       "away_abbr": "DAL",
       "line": 4.5,
-      "home_bets": 35,
-      "home_money": 40,
-      "away_bets": 65,
-      "away_money": 60,
+      "home_bets": 40,
+      "home_money": 46,
+      "away_bets": 60,
+      "away_money": 54,
       "home_score": null,
       "away_score": null
     }

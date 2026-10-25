@@ -5081,6 +5081,28 @@
     "away_score": 34,
     "final": true
   },
+  "NFL:290822": {
+    "league": "NFL",
+    "season": 2026,
+    "an_week": 7,
+    "week_id": "2026-10-26",
+    "start_time": "2026-10-25T13:30:00.000Z",
+    "home": "New Orleans Saints",
+    "away": "Pittsburgh Steelers",
+    "home_abbr": "NO",
+    "away_abbr": "PIT",
+    "tue_line": 3.5,
+    "line": 3,
+    "home_bets": 49,
+    "home_money": 45,
+    "away_bets": 51,
+    "away_money": 55,
+    "frozen_at": "2026-10-25T12:24:04+00:00",
+    "frozen_for": "kickoff",
+    "home_score": 10,
+    "away_score": 16,
+    "final": true
+  },
   "NFL:290888": {
     "league": "NFL",
     "season": 2026,

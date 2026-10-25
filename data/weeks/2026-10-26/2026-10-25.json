@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-25T16:58:54+00:00",
+  "pulled_at": "2026-10-25T19:28:04+00:00",
   "games": [
     {
       "id": 290930,
@@ -48,7 +48,7 @@
       "an_week": 7,
       "week_id": "2026-10-26",
       "start_time": "2026-10-25T17:00:00.000Z",
-      "status": "scheduled",
+      "status": "inprogress",
       "home": "Houston Texans",
       "away": "New York Giants",
       "home_abbr": "HOU",
@@ -58,8 +58,8 @@
       "home_money": 60,
       "away_bets": 52,
       "away_money": 40,
-      "home_score": 0,
-      "away_score": 0
+      "home_score": 14,
+      "away_score": 14
     },
     {
       "id": 290932,
@@ -68,7 +68,7 @@
       "an_week": 7,
       "week_id": "2026-10-26",
       "start_time": "2026-10-25T17:00:00.000Z",
-      "status": "scheduled",
+      "status": "inprogress",
       "home": "Atlanta Falcons",
       "away": "San Francisco 49ers",
       "home_abbr": "ATL",
@@ -78,8 +78,8 @@
       "home_money": 47,
       "away_bets": 61,
       "away_money": 53,
-      "home_score": 0,
-      "away_score": 0
+      "home_score": 26,
+      "away_score": 14
     },
     {
       "id": 290933,
@@ -88,18 +88,18 @@
       "an_week": 7,
       "week_id": "2026-10-26",
       "start_time": "2026-10-25T17:00:00.000Z",
-      "status": "scheduled",
+      "status": "inprogress",
       "home": "Carolina Panthers",
       "away": "Tampa Bay Buccaneers",
       "home_abbr": "CAR",
       "away_abbr": "TB",
-      "line": -3,
+      "line": 33.5,
       "home_bets": 63,
       "home_money": 58,
       "away_bets": 37,
       "away_money": 42,
-      "home_score": 0,
-      "away_score": 0
+      "home_score": 6,
+      "away_score": 43
     },
     {
       "id": 290934,
@@ -108,18 +108,18 @@
       "an_week": 7,
       "week_id": "2026-10-26",
       "start_time": "2026-10-25T17:00:00.000Z",
-      "status": "scheduled",
+      "status": "inprogress",
       "home": "Tennessee Titans",
       "away": "Cleveland Browns",
       "home_abbr": "TEN",
       "away_abbr": "CLE",
-      "line": 1.5,
+      "line": 6.5,
       "home_bets": 33,
       "home_money": 41,
       "away_bets": 67,
       "away_money": 59,
-      "home_score": 0,
-      "away_score": 0
+      "home_score": 14,
+      "away_score": 17
     },
     {
       "id": 290935,
@@ -128,18 +128,18 @@
       "an_week": 7,
       "week_id": "2026-10-26",
       "start_time": "2026-10-25T17:00:00.000Z",
-      "status": "scheduled",
+      "status": "inprogress",
       "home": "Baltimore Ravens",
       "away": "Cincinnati Bengals",
       "home_abbr": "BAL",
       "away_abbr": "CIN",
-      "line": 3,
+      "line": 7.5,
       "home_bets": 33,
       "home_money": 26,
       "away_bets": 67,
       "away_money": 74,
-      "home_score": 0,
-      "away_score": 0
+      "home_score": 13,
+      "away_score": 21
     },
     {
       "id": 290936,
@@ -148,7 +148,7 @@
       "an_week": 7,
       "week_id": "2026-10-26",
       "start_time": "2026-10-25T17:00:00.000Z",
-      "status": "scheduled",
+      "status": "inprogress",
       "home": "New York Jets",
       "away": "Miami Dolphins",
       "home_abbr": "NYJ",
@@ -158,8 +158,8 @@
       "home_money": 46,
       "away_bets": 46,
       "away_money": 54,
-      "home_score": 0,
-      "away_score": 0
+      "home_score": 17,
+      "away_score": 21
     },
     {
       "id": 290937,
@@ -168,18 +168,18 @@
       "an_week": 7,
       "week_id": "2026-10-26",
       "start_time": "2026-10-25T17:00:00.000Z",
-      "status": "scheduled",
+      "status": "inprogress",
       "home": "Minnesota Vikings",
       "away": "Indianapolis Colts",
       "home_abbr": "MIN",
       "away_abbr": "IND",
-      "line": -6.5,
+      "line": -2.5,
       "home_bets": 49,
       "home_money": 48,
       "away_bets": 51,
       "away_money": 52,
-      "home_score": 0,
-      "away_score": 0
+      "home_score": 13,
+      "away_score": 10
     },
     {
       "id": 290938,
@@ -195,9 +195,9 @@
       "away_abbr": "DEN",
       "line": 4.5,
       "home_bets": 38,
-      "home_money": 39,
+      "home_money": 43,
       "away_bets": 62,
-      "away_money": 61,
+      "away_money": 57,
       "home_score": null,
       "away_score": null
     },
@@ -214,10 +214,10 @@
       "home_abbr": "DET",
       "away_abbr": "GB",
       "line": -3.5,
-      "home_bets": 37,
-      "home_money": 60,
-      "away_bets": 63,
-      "away_money": 40,
+      "home_bets": 39,
+      "home_money": 61,
+      "away_bets": 61,
+      "away_money": 39,
       "home_score": null,
       "away_score": null
     },
@@ -234,10 +234,10 @@
       "home_abbr": "LV",
       "away_abbr": "LA",
       "line": 3.5,
-      "home_bets": 62,
-      "home_money": 58,
-      "away_bets": 38,
-      "away_money": 42,
+      "home_bets": 63,
+      "home_money": 57,
+      "away_bets": 37,
+      "away_money": 43,
       "home_score": null,
       "away_score": null
     },
@@ -254,10 +254,10 @@
       "home_abbr": "SEA",
       "away_abbr": "KC",
       "line": -3,
-      "home_bets": 13,
-      "home_money": 16,
-      "away_bets": 87,
-      "away_money": 84,
+      "home_bets": 15,
+      "home_money": 19,
+      "away_bets": 85,
+      "away_money": 81,
       "home_score": null,
       "away_score": null
     },
@@ -274,9 +274,9 @@
       "home_abbr": "PHI",
       "away_abbr": "DAL",
       "line": 4.5,
-      "home_bets": 40,
+      "home_bets": 46,
       "home_money": 46,
-      "away_bets": 60,
+      "away_bets": 54,
       "away_money": 54,
       "home_score": null,
       "away_score": null

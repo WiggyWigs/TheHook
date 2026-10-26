@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-26T08:38:05+00:00",
+  "pulled_at": "2026-10-26T15:56:58+00:00",
   "edge_threshold": 15,
   "games": [
     {
@@ -1602,10 +1602,10 @@
       "home_abbr": "PHI",
       "away_abbr": "DAL",
       "line": 4.5,
-      "home_bets": 44,
-      "home_money": 34,
-      "away_bets": 56,
-      "away_money": 66,
+      "home_bets": 43,
+      "home_money": 33,
+      "away_bets": 57,
+      "away_money": 67,
       "home_score": null,
       "away_score": null,
       "tue_line": 4.5

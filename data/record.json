@@ -6287,8 +6287,8 @@
     "away_money": 75,
     "frozen_at": "2026-10-25T23:03:50+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 20,
+    "away_score": 3,
+    "final": true
   }
 }

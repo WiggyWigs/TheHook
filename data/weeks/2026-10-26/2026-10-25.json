@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-25T23:03:50+00:00",
+  "pulled_at": "2026-10-26T01:05:42+00:00",
   "games": [
     {
       "id": 290930,
@@ -188,12 +188,12 @@
       "an_week": 7,
       "week_id": "2026-10-26",
       "start_time": "2026-10-25T20:05:00.000Z",
-      "status": "inprogress",
+      "status": "complete",
       "home": "Arizona Cardinals",
       "away": "Denver Broncos",
       "home_abbr": "ARI",
       "away_abbr": "DEN",
-      "line": 14.5,
+      "line": 4.5,
       "home_bets": 38,
       "home_money": 43,
       "away_bets": 62,
@@ -208,17 +208,17 @@
       "an_week": 7,
       "week_id": "2026-10-26",
       "start_time": "2026-10-25T20:25:00.000Z",
-      "status": "inprogress",
+      "status": "complete",
       "home": "Detroit Lions",
       "away": "Green Bay Packers",
       "home_abbr": "DET",
       "away_abbr": "GB",
-      "line": -2.5,
+      "line": -3.5,
       "home_bets": 39,
       "home_money": 59,
       "away_bets": 61,
       "away_money": 41,
-      "home_score": 17,
+      "home_score": 20,
       "away_score": 17
     },
     {
@@ -228,7 +228,7 @@
       "an_week": 7,
       "week_id": "2026-10-26",
       "start_time": "2026-10-25T20:25:00.000Z",
-      "status": "inprogress",
+      "status": "complete",
       "home": "Las Vegas Raiders",
       "away": "Los Angeles Rams",
       "home_abbr": "LV",
@@ -238,8 +238,8 @@
       "home_money": 53,
       "away_bets": 38,
       "away_money": 47,
-      "home_score": 18,
-      "away_score": 28
+      "home_score": 21,
+      "away_score": 35
     },
     {
       "id": 290941,
@@ -248,18 +248,18 @@
       "an_week": 7,
       "week_id": "2026-10-26",
       "start_time": "2026-10-26T00:20:00.000Z",
-      "status": "scheduled",
+      "status": "inprogress",
       "home": "Seattle Seahawks",
       "away": "Kansas City Chiefs",
       "home_abbr": "SEA",
       "away_abbr": "KC",
       "line": -3,
-      "home_bets": 16,
-      "home_money": 25,
-      "away_bets": 84,
-      "away_money": 75,
-      "home_score": null,
-      "away_score": null
+      "home_bets": 17,
+      "home_money": 28,
+      "away_bets": 83,
+      "away_money": 72,
+      "home_score": 3,
+      "away_score": 0
     },
     {
       "id": 290942,
@@ -275,9 +275,9 @@
       "away_abbr": "DAL",
       "line": 4.5,
       "home_bets": 48,
-      "home_money": 44,
+      "home_money": 40,
       "away_bets": 52,
-      "away_money": 56,
+      "away_money": 60,
       "home_score": null,
       "away_score": null
     }

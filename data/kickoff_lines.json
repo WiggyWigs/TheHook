@@ -3502,5 +3502,17 @@
     "away": "Los Angeles Rams",
     "home": "Las Vegas Raiders",
     "start_time": "2026-10-25T20:25:00.000Z"
+  },
+  "NFL:290941": {
+    "line": -3,
+    "home_bets": 16,
+    "home_money": 25,
+    "away_bets": 84,
+    "away_money": 75,
+    "frozen_at": "2026-10-25T23:03:50+00:00",
+    "frozen_for": "kickoff",
+    "away": "Kansas City Chiefs",
+    "home": "Seattle Seahawks",
+    "start_time": "2026-10-26T00:20:00.000Z"
   }
 }

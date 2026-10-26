@@ -6221,9 +6221,9 @@
     "away_money": 57,
     "frozen_at": "2026-10-25T19:28:04+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 16,
+    "away_score": 30,
+    "final": true
   },
   "NFL:290939": {
     "league": "NFL",
@@ -6243,9 +6243,9 @@
     "away_money": 39,
     "frozen_at": "2026-10-25T19:28:04+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 20,
+    "away_score": 17,
+    "final": true
   },
   "NFL:290940": {
     "league": "NFL",
@@ -6264,6 +6264,28 @@
     "away_bets": 37,
     "away_money": 43,
     "frozen_at": "2026-10-25T19:28:04+00:00",
+    "frozen_for": "kickoff",
+    "home_score": 21,
+    "away_score": 35,
+    "final": true
+  },
+  "NFL:290941": {
+    "league": "NFL",
+    "season": 2026,
+    "an_week": 7,
+    "week_id": "2026-10-26",
+    "start_time": "2026-10-26T00:20:00.000Z",
+    "home": "Seattle Seahawks",
+    "away": "Kansas City Chiefs",
+    "home_abbr": "SEA",
+    "away_abbr": "KC",
+    "tue_line": -2.5,
+    "line": -3,
+    "home_bets": 16,
+    "home_money": 25,
+    "away_bets": 84,
+    "away_money": 75,
+    "frozen_at": "2026-10-25T23:03:50+00:00",
     "frozen_for": "kickoff",
     "home_score": null,
     "away_score": null,

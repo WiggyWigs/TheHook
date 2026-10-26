@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-26T15:56:58+00:00",
+  "pulled_at": "2026-10-26T21:27:54+00:00",
   "games": [
     {
       "id": 290930,
@@ -274,10 +274,10 @@
       "home_abbr": "PHI",
       "away_abbr": "DAL",
       "line": 4.5,
-      "home_bets": 43,
-      "home_money": 33,
-      "away_bets": 57,
-      "away_money": 67,
+      "home_bets": 41,
+      "home_money": 29,
+      "away_bets": 59,
+      "away_money": 71,
       "home_score": null,
       "away_score": null
     }

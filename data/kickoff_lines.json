@@ -3514,5 +3514,17 @@
     "away": "Kansas City Chiefs",
     "home": "Seattle Seahawks",
     "start_time": "2026-10-26T00:20:00.000Z"
+  },
+  "NFL:290942": {
+    "line": 4.5,
+    "home_bets": 41,
+    "home_money": 29,
+    "away_bets": 59,
+    "away_money": 71,
+    "frozen_at": "2026-10-26T21:27:54+00:00",
+    "frozen_for": "kickoff",
+    "away": "Dallas Cowboys",
+    "home": "Philadelphia Eagles",
+    "start_time": "2026-10-27T00:15:00.000Z"
   }
 }

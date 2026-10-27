@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-26T21:27:54+00:00",
+  "pulled_at": "2026-10-27T01:52:01+00:00",
   "games": [
     {
       "id": 290930,
@@ -268,18 +268,18 @@
       "an_week": 7,
       "week_id": "2026-10-26",
       "start_time": "2026-10-27T00:15:00.000Z",
-      "status": "scheduled",
+      "status": "inprogress",
       "home": "Philadelphia Eagles",
       "away": "Dallas Cowboys",
       "home_abbr": "PHI",
       "away_abbr": "DAL",
       "line": 4.5,
-      "home_bets": 41,
-      "home_money": 29,
-      "away_bets": 59,
-      "away_money": 71,
-      "home_score": null,
-      "away_score": null
+      "home_bets": 54,
+      "home_money": 33,
+      "away_bets": 46,
+      "away_money": 67,
+      "home_score": 14,
+      "away_score": 20
     }
   ]
 }

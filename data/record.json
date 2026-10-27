@@ -6290,5 +6290,27 @@
     "home_score": 20,
     "away_score": 3,
     "final": true
+  },
+  "NFL:290942": {
+    "league": "NFL",
+    "season": 2026,
+    "an_week": 7,
+    "week_id": "2026-10-26",
+    "start_time": "2026-10-27T00:15:00.000Z",
+    "home": "Philadelphia Eagles",
+    "away": "Dallas Cowboys",
+    "home_abbr": "PHI",
+    "away_abbr": "DAL",
+    "tue_line": 4.5,
+    "line": 4.5,
+    "home_bets": 41,
+    "home_money": 29,
+    "away_bets": 59,
+    "away_money": 71,
+    "frozen_at": "2026-10-26T21:27:54+00:00",
+    "frozen_for": "kickoff",
+    "home_score": null,
+    "away_score": null,
+    "final": false
   }
 }

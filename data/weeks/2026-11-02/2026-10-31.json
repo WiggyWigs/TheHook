@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-31T23:51:20+00:00",
+  "pulled_at": "2026-10-31T23:57:58+00:00",
   "games": [
     {
       "id": 290943,
@@ -1159,7 +1159,7 @@
       "away_bets": 31,
       "away_money": 21,
       "home_score": 14,
-      "away_score": 7
+      "away_score": 14
     },
     {
       "id": 289757,
@@ -1213,7 +1213,7 @@
       "away": "Mississippi State Bulldogs",
       "home_abbr": "TEX",
       "away_abbr": "MSST",
-      "line": -25.5,
+      "line": -23.5,
       "home_bets": 36,
       "home_money": 32,
       "away_bets": 64,
@@ -1239,7 +1239,7 @@
       "away_bets": 64,
       "away_money": 46,
       "home_score": 0,
-      "away_score": 0
+      "away_score": 7
     },
     {
       "id": 289783,
@@ -1253,12 +1253,12 @@
       "away": "Georgia Tech Yellow Jackets",
       "home_abbr": "PITT",
       "away_abbr": "GT",
-      "line": -12.5,
+      "line": -8.5,
       "home_bets": 44,
       "home_money": 57,
       "away_bets": 56,
       "away_money": 43,
-      "home_score": 0,
+      "home_score": 3,
       "away_score": 0
     },
     {
@@ -1273,7 +1273,7 @@
       "away": "Ohio State Buckeyes",
       "home_abbr": "USC",
       "away_abbr": "OSU",
-      "line": 3.5,
+      "line": 4.5,
       "home_bets": 38,
       "home_money": 38,
       "away_bets": 62,
@@ -1288,7 +1288,7 @@
       "an_week": 9,
       "week_id": "2026-11-02",
       "start_time": "2026-10-31T23:45:00.000Z",
-      "status": "scheduled",
+      "status": "inprogress",
       "home": "Arkansas Razorbacks",
       "away": "Missouri Tigers",
       "home_abbr": "ARK",
@@ -1318,8 +1318,8 @@
       "home_money": 61,
       "away_bets": 51,
       "away_money": 39,
-      "home_score": null,
-      "away_score": null
+      "home_score": 0,
+      "away_score": 0
     },
     {
       "id": 289748,
@@ -1338,8 +1338,8 @@
       "home_money": 74,
       "away_bets": 47,
       "away_money": 26,
-      "home_score": null,
-      "away_score": null
+      "home_score": 0,
+      "away_score": 0
     },
     {
       "id": 289770,
@@ -1353,7 +1353,7 @@
       "away": "Texas State Bobcats",
       "home_abbr": "BOISE",
       "away_abbr": "TXST",
-      "line": -10.5,
+      "line": -10,
       "home_bets": 70,
       "home_money": 80,
       "away_bets": 30,

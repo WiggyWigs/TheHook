@@ -2903,6 +2903,18 @@
     "home": "Old Dominion Monarchs",
     "start_time": "2026-10-31T17:00:00.000Z"
   },
+  "NCAAF:289721": {
+    "line": -21.5,
+    "home_bets": 31,
+    "home_money": 27,
+    "away_bets": 69,
+    "away_money": 73,
+    "frozen_at": "2026-10-31T23:57:58+00:00",
+    "frozen_for": "kickoff",
+    "away": "Northern Illinois Huskies",
+    "home": "UNLV Rebels",
+    "start_time": "2026-11-01T02:30:00.000Z"
+  },
   "NCAAF:289722": {
     "line": -6,
     "home_bets": 26,
@@ -2963,6 +2975,18 @@
     "home": "Liberty Flames",
     "start_time": "2026-10-31T19:30:00.000Z"
   },
+  "NCAAF:289737": {
+    "line": -6,
+    "home_bets": 49,
+    "home_money": 61,
+    "away_bets": 51,
+    "away_money": 39,
+    "frozen_at": "2026-10-31T23:57:58+00:00",
+    "frozen_for": "kickoff",
+    "away": "Army Black Knights",
+    "home": "Memphis Tigers",
+    "start_time": "2026-11-01T00:00:00.000Z"
+  },
   "NCAAF:289738": {
     "line": 3.5,
     "home_bets": 43,
@@ -2998,6 +3022,18 @@
     "away": "Boston College Eagles",
     "home": "Duke Blue Devils",
     "start_time": "2026-10-31T16:00:00.000Z"
+  },
+  "NCAAF:289748": {
+    "line": -7.5,
+    "home_bets": 53,
+    "home_money": 74,
+    "away_bets": 47,
+    "away_money": 26,
+    "frozen_at": "2026-10-31T23:57:58+00:00",
+    "frozen_for": "kickoff",
+    "away": "Washington Huskies",
+    "home": "Nebraska Cornhuskers",
+    "start_time": "2026-11-01T00:00:00.000Z"
   },
   "NCAAF:289749": {
     "line": 1.5,
@@ -3179,6 +3215,18 @@
     "home": "North Carolina Tar Heels",
     "start_time": "2026-10-31T23:30:00.000Z"
   },
+  "NCAAF:289770": {
+    "line": -10,
+    "home_bets": 70,
+    "home_money": 80,
+    "away_bets": 30,
+    "away_money": 20,
+    "frozen_at": "2026-10-31T23:57:58+00:00",
+    "frozen_for": "kickoff",
+    "away": "Texas State Bobcats",
+    "home": "Boise State Broncos",
+    "start_time": "2026-11-01T02:00:00.000Z"
+  },
   "NCAAF:289771": {
     "line": -3.5,
     "home_bets": 49,
@@ -3262,6 +3310,18 @@
     "away": "Georgia Tech Yellow Jackets",
     "home": "Pittsburgh Panthers",
     "start_time": "2026-10-31T23:30:00.000Z"
+  },
+  "NCAAF:289785": {
+    "line": 6,
+    "home_bets": 23,
+    "home_money": 32,
+    "away_bets": 77,
+    "away_money": 68,
+    "frozen_at": "2026-10-31T23:57:58+00:00",
+    "frozen_for": "kickoff",
+    "away": "Oregon State Beavers",
+    "home": "Fresno State Bulldogs",
+    "start_time": "2026-11-01T03:00:00.000Z"
   },
   "NCAAF:289786": {
     "line": -22.5,

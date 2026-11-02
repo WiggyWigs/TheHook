@@ -4342,5 +4342,17 @@
     "away": "Kansas City Chiefs",
     "home": "Denver Broncos",
     "start_time": "2026-11-01T21:25:00.000Z"
+  },
+  "NFL:290955": {
+    "line": -6,
+    "home_bets": 48,
+    "home_money": 56,
+    "away_bets": 52,
+    "away_money": 44,
+    "frozen_at": "2026-11-02T00:24:22+00:00",
+    "frozen_for": "kickoff",
+    "away": "Philadelphia Eagles",
+    "home": "Washington Commanders",
+    "start_time": "2026-11-02T01:20:00.000Z"
   }
 }

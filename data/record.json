@@ -7695,9 +7695,9 @@
     "away_money": 77,
     "frozen_at": "2026-11-01T20:58:55+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 19,
+    "away_score": 24,
+    "final": true
   },
   "NFL:290954": {
     "league": "NFL",
@@ -7717,8 +7717,30 @@
     "away_money": 53,
     "frozen_at": "2026-11-01T20:58:55+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 28,
+    "away_score": 24,
+    "final": true
+  },
+  "NFL:290955": {
+    "league": "NFL",
+    "season": 2026,
+    "an_week": 8,
+    "week_id": "2026-11-02",
+    "start_time": "2026-11-02T01:20:00.000Z",
+    "home": "Washington Commanders",
+    "away": "Philadelphia Eagles",
+    "home_abbr": "WAS",
+    "away_abbr": "PHI",
+    "tue_line": -4.5,
+    "line": -6,
+    "home_bets": 48,
+    "home_money": 56,
+    "away_bets": 52,
+    "away_money": 44,
+    "frozen_at": "2026-11-02T00:24:22+00:00",
+    "frozen_for": "kickoff",
+    "home_score": 27,
+    "away_score": 10,
+    "final": true
   }
 }

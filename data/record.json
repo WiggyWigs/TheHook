@@ -7742,5 +7742,27 @@
     "home_score": 27,
     "away_score": 10,
     "final": true
+  },
+  "NFL:290956": {
+    "league": "NFL",
+    "season": 2026,
+    "an_week": 8,
+    "week_id": "2026-11-02",
+    "start_time": "2026-11-03T01:15:00.000Z",
+    "home": "Seattle Seahawks",
+    "away": "Chicago Bears",
+    "home_abbr": "SEA",
+    "away_abbr": "CHI",
+    "tue_line": -3.5,
+    "line": -3,
+    "home_bets": 44,
+    "home_money": 35,
+    "away_bets": 56,
+    "away_money": 65,
+    "frozen_at": "2026-11-02T19:17:02+00:00",
+    "frozen_for": "kickoff",
+    "home_score": null,
+    "away_score": null,
+    "final": false
   }
 }

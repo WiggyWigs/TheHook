@@ -3587,6 +3587,18 @@
     "home": "Illinois Fighting Illini",
     "start_time": "2026-11-07T01:00:00.000Z"
   },
+  "NCAAF:289842": {
+    "line": -19.5,
+    "home_bets": 42,
+    "home_money": 33,
+    "away_bets": 58,
+    "away_money": 67,
+    "frozen_at": "2026-11-07T21:02:30+00:00",
+    "frozen_for": "kickoff",
+    "away": "Rutgers Scarlet Knights",
+    "home": "Wisconsin Badgers",
+    "start_time": "2026-11-07T21:15:00.000Z"
+  },
   "NCAAF:289843": {
     "line": -6,
     "home_bets": 22,
@@ -3598,6 +3610,18 @@
     "away": "Alabama Crimson Tide",
     "home": "LSU Tigers",
     "start_time": "2026-11-07T20:30:00.000Z"
+  },
+  "NCAAF:289844": {
+    "line": -7,
+    "home_bets": 32,
+    "home_money": 17,
+    "away_bets": 68,
+    "away_money": 83,
+    "frozen_at": "2026-11-07T21:02:30+00:00",
+    "frozen_for": "kickoff",
+    "away": "South Alabama Jaguars",
+    "home": "Louisiana Ragin' Cajuns",
+    "start_time": "2026-11-07T22:00:00.000Z"
   },
   "NCAAF:289845": {
     "line": -6.5,
@@ -3743,6 +3767,18 @@
     "home": "Nevada Wolf Pack",
     "start_time": "2026-11-07T02:00:00.000Z"
   },
+  "NCAAF:289878": {
+    "line": -3,
+    "home_bets": 62,
+    "home_money": 69,
+    "away_bets": 38,
+    "away_money": 31,
+    "frozen_at": "2026-11-07T21:02:30+00:00",
+    "frozen_for": "kickoff",
+    "away": "Vanderbilt Commodores",
+    "home": "Mississippi State Bulldogs",
+    "start_time": "2026-11-07T21:15:00.000Z"
+  },
   "NCAAF:289879": {
     "line": -11.5,
     "home_bets": 66,
@@ -3803,6 +3839,18 @@
     "home": "UConn Huskies",
     "start_time": "2026-11-07T17:00:00.000Z"
   },
+  "NCAAF:289897": {
+    "line": 16.5,
+    "home_bets": 30,
+    "home_money": 28,
+    "away_bets": 70,
+    "away_money": 72,
+    "frozen_at": "2026-11-07T21:02:30+00:00",
+    "frozen_for": "kickoff",
+    "away": "Boise State Broncos",
+    "home": "Colorado State Rams",
+    "start_time": "2026-11-07T23:00:00.000Z"
+  },
   "NCAAF:289898": {
     "line": -5.5,
     "home_bets": 48,
@@ -3838,6 +3886,18 @@
     "away": "Merrimack Warriors",
     "home": "Wake Forest Demon Deacons",
     "start_time": "2026-11-07T20:30:00.000Z"
+  },
+  "NCAAF:289903": {
+    "line": -6,
+    "home_bets": 32,
+    "home_money": 49,
+    "away_bets": 68,
+    "away_money": 51,
+    "frozen_at": "2026-11-07T21:02:30+00:00",
+    "frozen_for": "kickoff",
+    "away": "Kentucky Wildcats",
+    "home": "Tennessee Volunteers",
+    "start_time": "2026-11-07T23:15:00.000Z"
   },
   "NCAAF:289905": {
     "line": 7,

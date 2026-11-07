@@ -6309,9 +6309,31 @@
     "away_money": 80,
     "frozen_at": "2026-11-07T00:15:18+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 20,
+    "away_score": 17,
+    "final": true
+  },
+  "NCAAF:289828": {
+    "league": "NCAAF",
+    "season": 2026,
+    "an_week": 10,
+    "week_id": "2026-11-09",
+    "start_time": "2026-11-07T03:15:00.000Z",
+    "home": "Arizona Wildcats",
+    "away": "TCU Horned Frogs",
+    "home_abbr": "ARI",
+    "away_abbr": "TCU",
+    "tue_line": -9.5,
+    "line": -6.5,
+    "home_bets": 66,
+    "home_money": 62,
+    "away_bets": 34,
+    "away_money": 38,
+    "frozen_at": "2026-11-07T02:43:58+00:00",
+    "frozen_for": "kickoff",
+    "home_score": 29,
+    "away_score": 28,
+    "final": true
   },
   "NCAAF:289841": {
     "league": "NCAAF",
@@ -6331,9 +6353,9 @@
     "away_money": 31,
     "frozen_at": "2026-11-07T00:15:18+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 24,
+    "away_score": 13,
+    "final": true
   },
   "NCAAF:289875": {
     "league": "NCAAF",
@@ -6375,9 +6397,9 @@
     "away_money": 51,
     "frozen_at": "2026-11-07T00:15:18+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 3,
+    "away_score": 31,
+    "final": true
   },
   "NCAAF:289898": {
     "league": "NCAAF",
@@ -6397,9 +6419,9 @@
     "away_money": 60,
     "frozen_at": "2026-11-06T21:57:22+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 51,
+    "away_score": 28,
+    "final": true
   },
   "NFL:290819": {
     "league": "NFL",

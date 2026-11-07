@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-11-07T02:34:48+00:00",
+  "pulled_at": "2026-11-07T02:43:58+00:00",
   "edge_threshold": 15,
   "games": [
     {
@@ -273,7 +273,7 @@
       "away_bets": 62,
       "away_money": 51,
       "home_score": 0,
-      "away_score": 7,
+      "away_score": 14,
       "frozen_at": "2026-11-07T00:15:18+00:00",
       "frozen_for": "kickoff",
       "tue_line": 9.5

@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-11-07T02:34:48+00:00",
+  "pulled_at": "2026-11-07T02:43:58+00:00",
   "games": [
     {
       "id": 290957,
@@ -473,7 +473,7 @@
       "away": "South Florida Bulls",
       "home_abbr": "ECU",
       "away_abbr": "USF",
-      "line": 2.5,
+      "line": -2.5,
       "home_bets": 38,
       "home_money": 20,
       "away_bets": 62,
@@ -513,13 +513,13 @@
       "away": "New Mexico Lobos",
       "home_abbr": "NEV",
       "away_abbr": "UNM",
-      "line": 16.5,
+      "line": 20.5,
       "home_bets": 36,
       "home_money": 48,
       "away_bets": 64,
       "away_money": 52,
       "home_score": 0,
-      "away_score": 7
+      "away_score": 14
     },
     {
       "id": 289828,

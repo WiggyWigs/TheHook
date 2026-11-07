@@ -3515,6 +3515,18 @@
     "home": "Middle Tennessee Blue Raiders",
     "start_time": "2026-10-13T23:00:00.000Z"
   },
+  "NCAAF:289898": {
+    "line": -5.5,
+    "home_bets": 48,
+    "home_money": 40,
+    "away_bets": 52,
+    "away_money": 60,
+    "frozen_at": "2026-11-06T21:57:22+00:00",
+    "frozen_for": "kickoff",
+    "away": "Virginia Tech Hokies",
+    "home": "SMU Mustangs",
+    "start_time": "2026-11-07T00:00:00.000Z"
+  },
   "NCAAF:290102": {
     "line": 2.5,
     "home_bets": null,

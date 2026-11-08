@@ -6375,9 +6375,9 @@
     "away_money": 51,
     "frozen_at": "2026-11-07T16:46:21+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 23,
+    "away_score": 12,
+    "final": true
   },
   "NCAAF:289836": {
     "league": "NCAAF",
@@ -6463,9 +6463,9 @@
     "away_money": 58,
     "frozen_at": "2026-11-07T16:46:21+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 13,
+    "away_score": 31,
+    "final": true
   },
   "NCAAF:289844": {
     "league": "NCAAF",
@@ -6551,9 +6551,9 @@
     "away_money": 87,
     "frozen_at": "2026-11-07T16:46:21+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 49,
+    "away_score": 13,
+    "final": true
   },
   "NCAAF:289855": {
     "league": "NCAAF",
@@ -6837,9 +6837,9 @@
     "away_money": 72,
     "frozen_at": "2026-11-07T16:46:21+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 42,
+    "away_score": 35,
+    "final": true
   },
   "NCAAF:289890": {
     "league": "NCAAF",
@@ -6969,9 +6969,9 @@
     "away_money": 38,
     "frozen_at": "2026-11-07T16:46:21+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 77,
+    "away_score": 0,
+    "final": true
   },
   "NCAAF:289903": {
     "league": "NCAAF",
@@ -7079,9 +7079,9 @@
     "away_money": 61,
     "frozen_at": "2026-11-07T16:46:21+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 25,
+    "away_score": 28,
+    "final": true
   },
   "NCAAF:289913": {
     "league": "NCAAF",
@@ -7166,6 +7166,28 @@
     "away_bets": 56,
     "away_money": 55,
     "frozen_at": "2026-11-07T16:46:21+00:00",
+    "frozen_for": "kickoff",
+    "home_score": null,
+    "away_score": null,
+    "final": false
+  },
+  "NCAAF:290174": {
+    "league": "NCAAF",
+    "season": 2026,
+    "an_week": 10,
+    "week_id": "2026-11-09",
+    "start_time": "2026-11-08T00:00:00.000Z",
+    "home": "Jacksonville State Gamecocks",
+    "away": "Sam Houston State Bearkats",
+    "home_abbr": "JVST",
+    "away_abbr": "SHSU",
+    "tue_line": -16.5,
+    "line": -16.5,
+    "home_bets": 68,
+    "home_money": 75,
+    "away_bets": 32,
+    "away_money": 25,
+    "frozen_at": "2026-11-07T23:33:18+00:00",
     "frozen_for": "kickoff",
     "home_score": null,
     "away_score": null,

@@ -4007,6 +4007,18 @@
     "home": "Middle Tennessee Blue Raiders",
     "start_time": "2026-11-07T20:30:00.000Z"
   },
+  "NCAAF:290174": {
+    "line": -16.5,
+    "home_bets": 68,
+    "home_money": 75,
+    "away_bets": 32,
+    "away_money": 25,
+    "frozen_at": "2026-11-07T23:33:18+00:00",
+    "frozen_for": "kickoff",
+    "away": "Sam Houston State Bearkats",
+    "home": "Jacksonville State Gamecocks",
+    "start_time": "2026-11-08T00:00:00.000Z"
+  },
   "NCAAF:290255": {
     "line": 9.5,
     "home_bets": null,

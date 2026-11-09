@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-11-09T00:37:00+00:00",
+  "pulled_at": "2026-11-09T07:43:07+00:00",
   "edge_threshold": 15,
   "games": [
     {
@@ -1734,7 +1734,7 @@
       "an_week": 9,
       "week_id": "2026-11-09",
       "start_time": "2026-11-08T21:25:00.000Z",
-      "status": "inprogress",
+      "status": "complete",
       "home": "New England Patriots",
       "away": "Green Bay Packers",
       "home_abbr": "NE",
@@ -1757,7 +1757,7 @@
       "an_week": 9,
       "week_id": "2026-11-09",
       "start_time": "2026-11-09T01:20:00.000Z",
-      "status": "scheduled",
+      "status": "complete",
       "home": "Chicago Bears",
       "away": "Tampa Bay Buccaneers",
       "home_abbr": "CHI",
@@ -1767,8 +1767,10 @@
       "home_money": 68,
       "away_bets": 29,
       "away_money": 32,
-      "home_score": null,
-      "away_score": null,
+      "home_score": 27,
+      "away_score": 24,
+      "frozen_at": "2026-11-09T00:37:00+00:00",
+      "frozen_for": "kickoff",
       "tue_line": -6
     },
     {
@@ -1784,10 +1786,10 @@
       "home_abbr": "MIN",
       "away_abbr": "BUF",
       "line": 3,
-      "home_bets": 33,
-      "home_money": 29,
-      "away_bets": 67,
-      "away_money": 71,
+      "home_bets": 30,
+      "home_money": 45,
+      "away_bets": 70,
+      "away_money": 55,
       "home_score": null,
       "away_score": null,
       "tue_line": 3.5

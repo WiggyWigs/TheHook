@@ -5278,5 +5278,17 @@
     "away": "Green Bay Packers",
     "home": "New England Patriots",
     "start_time": "2026-11-08T21:25:00.000Z"
+  },
+  "NFL:290969": {
+    "line": -6,
+    "home_bets": 71,
+    "home_money": 68,
+    "away_bets": 29,
+    "away_money": 32,
+    "frozen_at": "2026-11-09T00:37:00+00:00",
+    "frozen_for": "kickoff",
+    "away": "Tampa Bay Buccaneers",
+    "home": "Chicago Bears",
+    "start_time": "2026-11-09T01:20:00.000Z"
   }
 }

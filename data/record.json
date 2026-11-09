@@ -9411,8 +9411,30 @@
     "away_money": 79,
     "frozen_at": "2026-11-08T19:23:41+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 27,
+    "away_score": 45,
+    "final": true
+  },
+  "NFL:290969": {
+    "league": "NFL",
+    "season": 2026,
+    "an_week": 9,
+    "week_id": "2026-11-09",
+    "start_time": "2026-11-09T01:20:00.000Z",
+    "home": "Chicago Bears",
+    "away": "Tampa Bay Buccaneers",
+    "home_abbr": "CHI",
+    "away_abbr": "TB",
+    "tue_line": -6,
+    "line": -6,
+    "home_bets": 71,
+    "home_money": 68,
+    "away_bets": 29,
+    "away_money": 32,
+    "frozen_at": "2026-11-09T00:37:00+00:00",
+    "frozen_for": "kickoff",
+    "home_score": 27,
+    "away_score": 24,
+    "final": true
   }
 }

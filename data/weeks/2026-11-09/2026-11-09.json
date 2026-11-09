@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-11-09T07:43:07+00:00",
+  "pulled_at": "2026-11-09T19:36:10+00:00",
   "games": [
     {
       "id": 290957,
@@ -33,11 +33,11 @@
       "away": "Cincinnati Bengals",
       "home_abbr": "ATL",
       "away_abbr": "CIN",
-      "line": null,
-      "home_bets": null,
-      "home_money": null,
-      "away_bets": null,
-      "away_money": null,
+      "line": 3,
+      "home_bets": 47,
+      "home_money": 51,
+      "away_bets": 53,
+      "away_money": 49,
       "home_score": 17,
       "away_score": 34
     },
@@ -293,11 +293,11 @@
       "away": "Buffalo Bills",
       "home_abbr": "MIN",
       "away_abbr": "BUF",
-      "line": 3,
-      "home_bets": 30,
-      "home_money": 45,
-      "away_bets": 70,
-      "away_money": 55,
+      "line": 3.5,
+      "home_bets": 33,
+      "home_money": 43,
+      "away_bets": 67,
+      "away_money": 57,
       "home_score": null,
       "away_score": null
     }

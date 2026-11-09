@@ -5230,5 +5230,53 @@
     "away": "Dallas Cowboys",
     "home": "Indianapolis Colts",
     "start_time": "2026-11-08T18:00:00.000Z"
+  },
+  "NFL:290965": {
+    "line": 5.5,
+    "home_bets": 33,
+    "home_money": 33,
+    "away_bets": 67,
+    "away_money": 67,
+    "frozen_at": "2026-11-08T19:23:41+00:00",
+    "frozen_for": "kickoff",
+    "away": "Houston Texans",
+    "home": "Los Angeles Chargers",
+    "start_time": "2026-11-08T21:05:00.000Z"
+  },
+  "NFL:290966": {
+    "line": -8.5,
+    "home_bets": 62,
+    "home_money": 60,
+    "away_bets": 38,
+    "away_money": 40,
+    "frozen_at": "2026-11-08T19:23:41+00:00",
+    "frozen_for": "kickoff",
+    "away": "Las Vegas Raiders",
+    "home": "San Francisco 49ers",
+    "start_time": "2026-11-08T21:25:00.000Z"
+  },
+  "NFL:290967": {
+    "line": -8.5,
+    "home_bets": 62,
+    "home_money": 59,
+    "away_bets": 38,
+    "away_money": 41,
+    "frozen_at": "2026-11-08T19:23:41+00:00",
+    "frozen_for": "kickoff",
+    "away": "Arizona Cardinals",
+    "home": "Seattle Seahawks",
+    "start_time": "2026-11-08T21:25:00.000Z"
+  },
+  "NFL:290968": {
+    "line": -3,
+    "home_bets": 35,
+    "home_money": 21,
+    "away_bets": 65,
+    "away_money": 79,
+    "frozen_at": "2026-11-08T19:23:41+00:00",
+    "frozen_for": "kickoff",
+    "away": "Green Bay Packers",
+    "home": "New England Patriots",
+    "start_time": "2026-11-08T21:25:00.000Z"
   }
 }

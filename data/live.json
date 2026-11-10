@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-11-09T19:36:10+00:00",
+  "pulled_at": "2026-11-10T03:17:17+00:00",
   "edge_threshold": 15,
   "games": [
     {
@@ -1780,7 +1780,7 @@
       "an_week": 9,
       "week_id": "2026-11-09",
       "start_time": "2026-11-10T01:15:00.000Z",
-      "status": "scheduled",
+      "status": "inprogress",
       "home": "Minnesota Vikings",
       "away": "Buffalo Bills",
       "home_abbr": "MIN",
@@ -1790,8 +1790,10 @@
       "home_money": 43,
       "away_bets": 67,
       "away_money": 57,
-      "home_score": null,
-      "away_score": null,
+      "home_score": 6,
+      "away_score": 10,
+      "frozen_at": "2026-11-09T19:36:10+00:00",
+      "frozen_for": "kickoff",
       "tue_line": 3.5
     }
   ]

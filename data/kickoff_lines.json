@@ -5290,5 +5290,17 @@
     "away": "Tampa Bay Buccaneers",
     "home": "Chicago Bears",
     "start_time": "2026-11-09T01:20:00.000Z"
+  },
+  "NFL:291123": {
+    "line": 3.5,
+    "home_bets": 33,
+    "home_money": 43,
+    "away_bets": 67,
+    "away_money": 57,
+    "frozen_at": "2026-11-09T19:36:10+00:00",
+    "frozen_for": "kickoff",
+    "away": "Buffalo Bills",
+    "home": "Minnesota Vikings",
+    "start_time": "2026-11-10T01:15:00.000Z"
   }
 }

@@ -7475,9 +7475,9 @@
     "away_money": 28,
     "frozen_at": "2026-11-10T03:17:17+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 14,
+    "away_score": 42,
+    "final": true
   },
   "NCAAF:289944": {
     "league": "NCAAF",
@@ -7497,9 +7497,9 @@
     "away_money": 62,
     "frozen_at": "2026-11-10T03:17:17+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 33,
+    "away_score": 28,
+    "final": true
   },
   "NCAAF:289945": {
     "league": "NCAAF",
@@ -7519,9 +7519,9 @@
     "away_money": 43,
     "frozen_at": "2026-11-10T03:17:17+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 34,
+    "away_score": 17,
+    "final": true
   },
   "NCAAF:290167": {
     "league": "NCAAF",

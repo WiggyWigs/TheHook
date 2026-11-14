@@ -7721,6 +7721,28 @@
     "away_score": null,
     "final": false
   },
+  "NCAAF:289957": {
+    "league": "NCAAF",
+    "season": 2026,
+    "an_week": 11,
+    "week_id": "2026-11-16",
+    "start_time": "2026-11-14T22:30:00.000Z",
+    "home": "Michigan State Spartans",
+    "away": "Washington Huskies",
+    "home_abbr": "MSU",
+    "away_abbr": "WASH",
+    "tue_line": 3,
+    "line": 2.5,
+    "home_bets": 29,
+    "home_money": 18,
+    "away_bets": 71,
+    "away_money": 82,
+    "frozen_at": "2026-11-14T21:54:56+00:00",
+    "frozen_for": "kickoff",
+    "home_score": null,
+    "away_score": null,
+    "final": false
+  },
   "NCAAF:289959": {
     "league": "NCAAF",
     "season": 2026,
@@ -7761,9 +7783,9 @@
     "away_money": 67,
     "frozen_at": "2026-11-14T16:52:27+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 20,
+    "away_score": 10,
+    "final": true
   },
   "NCAAF:289962": {
     "league": "NCAAF",
@@ -7919,6 +7941,28 @@
     "away_score": null,
     "final": false
   },
+  "NCAAF:289993": {
+    "league": "NCAAF",
+    "season": 2026,
+    "an_week": 11,
+    "week_id": "2026-11-16",
+    "start_time": "2026-11-14T22:00:00.000Z",
+    "home": "Louisiana Tech Bulldogs",
+    "away": "Southern Miss Golden Eagles",
+    "home_abbr": "LT",
+    "away_abbr": "USM",
+    "tue_line": -17.5,
+    "line": -17.5,
+    "home_bets": 50,
+    "home_money": 57,
+    "away_bets": 50,
+    "away_money": 43,
+    "frozen_at": "2026-11-14T21:54:56+00:00",
+    "frozen_for": "kickoff",
+    "home_score": null,
+    "away_score": null,
+    "final": false
+  },
   "NCAAF:289994": {
     "league": "NCAAF",
     "season": 2026,
@@ -7962,6 +8006,28 @@
     "home_score": 22,
     "away_score": 14,
     "final": true
+  },
+  "NCAAF:289998": {
+    "league": "NCAAF",
+    "season": 2026,
+    "an_week": 11,
+    "week_id": "2026-11-16",
+    "start_time": "2026-11-14T22:30:00.000Z",
+    "home": "UCF Knights",
+    "away": "Arizona State Sun Devils",
+    "home_abbr": "UCF",
+    "away_abbr": "ASU",
+    "tue_line": -3.5,
+    "line": -3.5,
+    "home_bets": 51,
+    "home_money": 66,
+    "away_bets": 49,
+    "away_money": 34,
+    "frozen_at": "2026-11-14T21:54:56+00:00",
+    "frozen_for": "kickoff",
+    "home_score": null,
+    "away_score": null,
+    "final": false
   },
   "NCAAF:290000": {
     "league": "NCAAF",
@@ -8113,9 +8179,9 @@
     "away_money": 69,
     "frozen_at": "2026-11-14T16:52:27+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 7,
+    "away_score": 26,
+    "final": true
   },
   "NCAAF:290027": {
     "league": "NCAAF",

@@ -7651,9 +7651,31 @@
     "away_money": 78,
     "frozen_at": "2026-11-13T22:24:18+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 10,
+    "away_score": 16,
+    "final": true
+  },
+  "NCAAF:289953": {
+    "league": "NCAAF",
+    "season": 2026,
+    "an_week": 11,
+    "week_id": "2026-11-16",
+    "start_time": "2026-11-14T03:15:00.000Z",
+    "home": "Colorado Buffaloes",
+    "away": "Houston Cougars",
+    "home_abbr": "COLO",
+    "away_abbr": "HOU",
+    "tue_line": 9.5,
+    "line": 7.5,
+    "home_bets": 16,
+    "home_money": 24,
+    "away_bets": 84,
+    "away_money": 76,
+    "frozen_at": "2026-11-14T02:55:51+00:00",
+    "frozen_for": "kickoff",
+    "home_score": 42,
+    "away_score": 32,
+    "final": true
   },
   "NCAAF:289995": {
     "league": "NCAAF",
@@ -7673,9 +7695,9 @@
     "away_money": 53,
     "frozen_at": "2026-11-14T01:47:58+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 22,
+    "away_score": 14,
+    "final": true
   },
   "NCAAF:290167": {
     "league": "NCAAF",

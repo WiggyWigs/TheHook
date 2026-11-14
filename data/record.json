@@ -7783,6 +7783,28 @@
     "away_money": 63,
     "frozen_at": "2026-11-14T16:52:27+00:00",
     "frozen_for": "kickoff",
+    "home_score": 16,
+    "away_score": 17,
+    "final": true
+  },
+  "NCAAF:289963": {
+    "league": "NCAAF",
+    "season": 2026,
+    "an_week": 11,
+    "week_id": "2026-11-16",
+    "start_time": "2026-11-14T21:15:00.000Z",
+    "home": "Mississippi State Bulldogs",
+    "away": "Auburn Tigers",
+    "home_abbr": "MSST",
+    "away_abbr": "AUB",
+    "tue_line": 2.5,
+    "line": 2.5,
+    "home_bets": 17,
+    "home_money": 17,
+    "away_bets": 83,
+    "away_money": 83,
+    "frozen_at": "2026-11-14T21:08:41+00:00",
+    "frozen_for": "kickoff",
     "home_score": null,
     "away_score": null,
     "final": false
@@ -7981,9 +8003,9 @@
     "away_money": 80,
     "frozen_at": "2026-11-14T16:52:27+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 6,
+    "away_score": 21,
+    "final": true
   },
   "NCAAF:290009": {
     "league": "NCAAF",
@@ -8003,9 +8025,9 @@
     "away_money": 22,
     "frozen_at": "2026-11-14T16:52:27+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 28,
+    "away_score": 21,
+    "final": true
   },
   "NCAAF:290016": {
     "league": "NCAAF",
@@ -8293,6 +8315,28 @@
     "away_score": null,
     "final": false
   },
+  "NCAAF:290047": {
+    "league": "NCAAF",
+    "season": 2026,
+    "an_week": 11,
+    "week_id": "2026-11-16",
+    "start_time": "2026-11-14T21:30:00.000Z",
+    "home": "Rice Owls",
+    "away": "Tulane Green Wave",
+    "home_abbr": "RICE",
+    "away_abbr": "TULN",
+    "tue_line": -2.5,
+    "line": -4,
+    "home_bets": 29,
+    "home_money": 49,
+    "away_bets": 71,
+    "away_money": 51,
+    "frozen_at": "2026-11-14T21:08:41+00:00",
+    "frozen_for": "kickoff",
+    "home_score": null,
+    "away_score": null,
+    "final": false
+  },
   "NCAAF:290048": {
     "league": "NCAAF",
     "season": 2026,
@@ -8311,9 +8355,9 @@
     "away_money": 26,
     "frozen_at": "2026-11-14T16:52:27+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 10,
+    "away_score": 36,
+    "final": true
   },
   "NCAAF:290050": {
     "league": "NCAAF",

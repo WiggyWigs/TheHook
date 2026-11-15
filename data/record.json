@@ -7739,9 +7739,9 @@
     "away_money": 82,
     "frozen_at": "2026-11-14T21:54:56+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 14,
+    "away_score": 21,
+    "final": true
   },
   "NCAAF:289959": {
     "league": "NCAAF",
@@ -7827,9 +7827,9 @@
     "away_money": 83,
     "frozen_at": "2026-11-14T21:08:41+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 9,
+    "away_score": 41,
+    "final": true
   },
   "NCAAF:289964": {
     "league": "NCAAF",
@@ -8069,9 +8069,9 @@
     "away_money": 43,
     "frozen_at": "2026-11-14T21:54:56+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 63,
+    "away_score": 31,
+    "final": true
   },
   "NCAAF:289994": {
     "league": "NCAAF",
@@ -8135,9 +8135,9 @@
     "away_money": 34,
     "frozen_at": "2026-11-14T21:54:56+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 13,
+    "away_score": 26,
+    "final": true
   },
   "NCAAF:290000": {
     "league": "NCAAF",
@@ -8579,6 +8579,28 @@
     "away_score": 31,
     "final": true
   },
+  "NCAAF:290038": {
+    "league": "NCAAF",
+    "season": 2026,
+    "an_week": 11,
+    "week_id": "2026-11-16",
+    "start_time": "2026-11-15T00:45:00.000Z",
+    "home": "Arkansas Razorbacks",
+    "away": "South Carolina Gamecocks",
+    "home_abbr": "ARK",
+    "away_abbr": "SC",
+    "tue_line": 7.5,
+    "line": 7,
+    "home_bets": 22,
+    "home_money": 36,
+    "away_bets": 78,
+    "away_money": 64,
+    "frozen_at": "2026-11-15T00:36:16+00:00",
+    "frozen_for": "kickoff",
+    "home_score": null,
+    "away_score": null,
+    "final": false
+  },
   "NCAAF:290040": {
     "league": "NCAAF",
     "season": 2026,
@@ -8641,6 +8663,28 @@
     "away_money": 63,
     "frozen_at": "2026-11-14T22:39:41+00:00",
     "frozen_for": "kickoff",
+    "home_score": 16,
+    "away_score": 20,
+    "final": true
+  },
+  "NCAAF:290046": {
+    "league": "NCAAF",
+    "season": 2026,
+    "an_week": 11,
+    "week_id": "2026-11-16",
+    "start_time": "2026-11-15T02:00:00.000Z",
+    "home": "UTSA Roadrunners",
+    "away": "North Texas Mean Green",
+    "home_abbr": "UTSA",
+    "away_abbr": "UNT",
+    "tue_line": 2.5,
+    "line": 2.5,
+    "home_bets": 32,
+    "home_money": 35,
+    "away_bets": 68,
+    "away_money": 65,
+    "frozen_at": "2026-11-15T00:36:16+00:00",
+    "frozen_for": "kickoff",
     "home_score": null,
     "away_score": null,
     "final": false
@@ -8663,9 +8707,9 @@
     "away_money": 51,
     "frozen_at": "2026-11-14T21:08:41+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 17,
+    "away_score": 20,
+    "final": true
   },
   "NCAAF:290048": {
     "league": "NCAAF",

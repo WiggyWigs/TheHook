@@ -5099,6 +5099,18 @@
     "home": "New Orleans Saints",
     "start_time": "2026-10-25T13:30:00.000Z"
   },
+  "NFL:290823": {
+    "line": -2.5,
+    "home_bets": 49,
+    "home_money": 53,
+    "away_bets": 51,
+    "away_money": 47,
+    "frozen_at": "2026-11-15T07:39:09+00:00",
+    "frozen_for": "kickoff",
+    "away": "New England Patriots",
+    "home": "Detroit Lions",
+    "start_time": "2026-11-15T14:30:00.000Z"
+  },
   "NFL:290888": {
     "line": 2.5,
     "home_bets": 49,

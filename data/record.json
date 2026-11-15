@@ -9085,6 +9085,28 @@
     "away_score": 16,
     "final": true
   },
+  "NFL:290823": {
+    "league": "NFL",
+    "season": 2026,
+    "an_week": 10,
+    "week_id": "2026-11-16",
+    "start_time": "2026-11-15T14:30:00.000Z",
+    "home": "Detroit Lions",
+    "away": "New England Patriots",
+    "home_abbr": "DET",
+    "away_abbr": "NE",
+    "tue_line": -2.5,
+    "line": -2.5,
+    "home_bets": 49,
+    "home_money": 53,
+    "away_bets": 51,
+    "away_money": 47,
+    "frozen_at": "2026-11-15T07:39:09+00:00",
+    "frozen_for": "kickoff",
+    "home_score": null,
+    "away_score": null,
+    "final": false
+  },
   "NFL:290888": {
     "league": "NFL",
     "season": 2026,

@@ -7787,6 +7787,28 @@
     "away_score": 10,
     "final": true
   },
+  "NCAAF:289961": {
+    "league": "NCAAF",
+    "season": 2026,
+    "an_week": 11,
+    "week_id": "2026-11-16",
+    "start_time": "2026-11-15T03:30:00.000Z",
+    "home": "Arizona Wildcats",
+    "away": "Utah Utes",
+    "home_abbr": "ARI",
+    "away_abbr": "UTAH",
+    "tue_line": 2.5,
+    "line": 1.5,
+    "home_bets": 27,
+    "home_money": 42,
+    "away_bets": 73,
+    "away_money": 58,
+    "frozen_at": "2026-11-15T02:26:23+00:00",
+    "frozen_for": "kickoff",
+    "home_score": 39,
+    "away_score": 40,
+    "final": true
+  },
   "NCAAF:289962": {
     "league": "NCAAF",
     "season": 2026,
@@ -7893,9 +7915,9 @@
     "away_money": 46,
     "frozen_at": "2026-11-14T22:39:41+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 28,
+    "away_score": 7,
+    "final": true
   },
   "NCAAF:289967": {
     "league": "NCAAF",
@@ -7937,9 +7959,9 @@
     "away_money": 33,
     "frozen_at": "2026-11-14T22:39:41+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 14,
+    "away_score": 21,
+    "final": true
   },
   "NCAAF:289972": {
     "league": "NCAAF",
@@ -7959,9 +7981,9 @@
     "away_money": 35,
     "frozen_at": "2026-11-14T22:39:41+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 28,
+    "away_score": 7,
+    "final": true
   },
   "NCAAF:289977": {
     "league": "NCAAF",
@@ -8003,9 +8025,53 @@
     "away_money": 21,
     "frozen_at": "2026-11-14T22:39:41+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 42,
+    "away_score": 14,
+    "final": true
+  },
+  "NCAAF:289981": {
+    "league": "NCAAF",
+    "season": 2026,
+    "an_week": 11,
+    "week_id": "2026-11-16",
+    "start_time": "2026-11-15T03:00:00.000Z",
+    "home": "UTEP Miners",
+    "away": "Wyoming Cowboys",
+    "home_abbr": "UTEP",
+    "away_abbr": "WYO",
+    "tue_line": 7.5,
+    "line": 7,
+    "home_bets": 22,
+    "home_money": 9,
+    "away_bets": 78,
+    "away_money": 91,
+    "frozen_at": "2026-11-15T02:26:23+00:00",
+    "frozen_for": "kickoff",
+    "home_score": 15,
+    "away_score": 27,
+    "final": true
+  },
+  "NCAAF:289987": {
+    "league": "NCAAF",
+    "season": 2026,
+    "an_week": 11,
+    "week_id": "2026-11-16",
+    "start_time": "2026-11-15T04:00:00.000Z",
+    "home": "Hawai'i Warriors",
+    "away": "North Dakota State Bison",
+    "home_abbr": "HAW",
+    "away_abbr": "NDSU",
+    "tue_line": 6.5,
+    "line": 7,
+    "home_bets": 29,
+    "home_money": 40,
+    "away_bets": 71,
+    "away_money": 60,
+    "frozen_at": "2026-11-15T02:26:23+00:00",
+    "frozen_for": "kickoff",
+    "home_score": 13,
+    "away_score": 21,
+    "final": true
   },
   "NCAAF:289989": {
     "league": "NCAAF",
@@ -8025,9 +8091,9 @@
     "away_money": 29,
     "frozen_at": "2026-11-14T22:39:41+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 22,
+    "away_score": 40,
+    "final": true
   },
   "NCAAF:289992": {
     "league": "NCAAF",
@@ -8117,6 +8183,28 @@
     "away_score": 14,
     "final": true
   },
+  "NCAAF:289997": {
+    "league": "NCAAF",
+    "season": 2026,
+    "an_week": 11,
+    "week_id": "2026-11-16",
+    "start_time": "2026-11-15T03:30:00.000Z",
+    "home": "Washington State Cougars",
+    "away": "Colorado State Rams",
+    "home_abbr": "WSU",
+    "away_abbr": "CSU",
+    "tue_line": -9.5,
+    "line": -8.5,
+    "home_bets": 43,
+    "home_money": 46,
+    "away_bets": 57,
+    "away_money": 54,
+    "frozen_at": "2026-11-15T02:26:23+00:00",
+    "frozen_for": "kickoff",
+    "home_score": 73,
+    "away_score": 7,
+    "final": true
+  },
   "NCAAF:289998": {
     "league": "NCAAF",
     "season": 2026,
@@ -8179,9 +8267,9 @@
     "away_money": 45,
     "frozen_at": "2026-11-14T22:39:41+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 21,
+    "away_score": 22,
+    "final": true
   },
   "NCAAF:290004": {
     "league": "NCAAF",
@@ -8201,9 +8289,9 @@
     "away_money": 59,
     "frozen_at": "2026-11-14T22:39:41+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 17,
+    "away_score": 21,
+    "final": true
   },
   "NCAAF:290008": {
     "league": "NCAAF",
@@ -8267,9 +8355,9 @@
     "away_money": 49,
     "frozen_at": "2026-11-14T22:39:41+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 46,
+    "away_score": 41,
+    "final": true
   },
   "NCAAF:290016": {
     "league": "NCAAF",
@@ -8311,9 +8399,9 @@
     "away_money": 38,
     "frozen_at": "2026-11-14T22:39:41+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 24,
+    "away_score": 3,
+    "final": true
   },
   "NCAAF:290018": {
     "league": "NCAAF",
@@ -8377,9 +8465,9 @@
     "away_money": 16,
     "frozen_at": "2026-11-14T22:39:41+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 14,
+    "away_score": 16,
+    "final": true
   },
   "NCAAF:290024": {
     "league": "NCAAF",
@@ -8443,9 +8531,9 @@
     "away_money": 43,
     "frozen_at": "2026-11-14T22:39:41+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 27,
+    "away_score": 14,
+    "final": true
   },
   "NCAAF:290029": {
     "league": "NCAAF",
@@ -8535,6 +8623,28 @@
     "away_score": 22,
     "final": true
   },
+  "NCAAF:290034": {
+    "league": "NCAAF",
+    "season": 2026,
+    "an_week": 11,
+    "week_id": "2026-11-16",
+    "start_time": "2026-11-15T02:30:00.000Z",
+    "home": "San Diego State Aztecs",
+    "away": "Utah State Aggies",
+    "home_abbr": "SDSU",
+    "away_abbr": "USU",
+    "tue_line": 2.5,
+    "line": 3,
+    "home_bets": 41,
+    "home_money": 25,
+    "away_bets": 59,
+    "away_money": 75,
+    "frozen_at": "2026-11-15T02:26:23+00:00",
+    "frozen_for": "kickoff",
+    "home_score": 30,
+    "away_score": 13,
+    "final": true
+  },
   "NCAAF:290035": {
     "league": "NCAAF",
     "season": 2026,
@@ -8597,9 +8707,31 @@
     "away_money": 64,
     "frozen_at": "2026-11-15T00:36:16+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 34,
+    "away_score": 6,
+    "final": true
+  },
+  "NCAAF:290039": {
+    "league": "NCAAF",
+    "season": 2026,
+    "an_week": 11,
+    "week_id": "2026-11-16",
+    "start_time": "2026-11-15T02:30:00.000Z",
+    "home": "Oklahoma State Cowboys",
+    "away": "Texas Tech Red Raiders",
+    "home_abbr": "OKST",
+    "away_abbr": "TTU",
+    "tue_line": -3.5,
+    "line": -4,
+    "home_bets": 25,
+    "home_money": 33,
+    "away_bets": 75,
+    "away_money": 67,
+    "frozen_at": "2026-11-15T02:26:23+00:00",
+    "frozen_for": "kickoff",
+    "home_score": 27,
+    "away_score": 52,
+    "final": true
   },
   "NCAAF:290040": {
     "league": "NCAAF",
@@ -8685,9 +8817,9 @@
     "away_money": 65,
     "frozen_at": "2026-11-15T00:36:16+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 35,
+    "away_score": 16,
+    "final": true
   },
   "NCAAF:290047": {
     "league": "NCAAF",
@@ -8751,9 +8883,9 @@
     "away_money": 77,
     "frozen_at": "2026-11-14T22:39:41+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 38,
+    "away_score": 21,
+    "final": true
   },
   "NCAAF:290050": {
     "league": "NCAAF",

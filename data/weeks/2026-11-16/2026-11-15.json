@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-11-15T21:30:04+00:00",
+  "pulled_at": "2026-11-16T02:36:42+00:00",
   "games": [
     {
       "id": 290970,
@@ -188,18 +188,18 @@
       "an_week": 10,
       "week_id": "2026-11-16",
       "start_time": "2026-11-15T21:05:00.000Z",
-      "status": "inprogress",
+      "status": "complete",
       "home": "Arizona Cardinals",
       "away": "Los Angeles Rams",
       "home_abbr": "ARI",
       "away_abbr": "LA",
-      "line": 11.5,
+      "line": 8.5,
       "home_bets": 24,
       "home_money": 23,
       "away_bets": 76,
       "away_money": 77,
-      "home_score": 3,
-      "away_score": 3
+      "home_score": 6,
+      "away_score": 34
     },
     {
       "id": 290979,
@@ -208,7 +208,7 @@
       "an_week": 10,
       "week_id": "2026-11-16",
       "start_time": "2026-11-15T21:05:00.000Z",
-      "status": "inprogress",
+      "status": "complete",
       "home": "Las Vegas Raiders",
       "away": "Seattle Seahawks",
       "home_abbr": "LV",
@@ -218,8 +218,8 @@
       "home_money": 19,
       "away_bets": 74,
       "away_money": 81,
-      "home_score": 7,
-      "away_score": 7
+      "home_score": 13,
+      "away_score": 21
     },
     {
       "id": 290980,
@@ -228,7 +228,7 @@
       "an_week": 10,
       "week_id": "2026-11-16",
       "start_time": "2026-11-15T21:25:00.000Z",
-      "status": "inprogress",
+      "status": "complete",
       "home": "Dallas Cowboys",
       "away": "San Francisco 49ers",
       "home_abbr": "DAL",
@@ -238,8 +238,8 @@
       "home_money": 50,
       "away_bets": 69,
       "away_money": 50,
-      "home_score": 0,
-      "away_score": 0
+      "home_score": 40,
+      "away_score": 46
     },
     {
       "id": 290981,
@@ -248,18 +248,18 @@
       "an_week": 10,
       "week_id": "2026-11-16",
       "start_time": "2026-11-16T01:20:00.000Z",
-      "status": "scheduled",
+      "status": "inprogress",
       "home": "Cincinnati Bengals",
       "away": "Pittsburgh Steelers",
       "home_abbr": "CIN",
       "away_abbr": "PIT",
-      "line": -3.5,
-      "home_bets": 53,
+      "line": -4.5,
+      "home_bets": 50,
       "home_money": 47,
-      "away_bets": 47,
+      "away_bets": 50,
       "away_money": 53,
-      "home_score": null,
-      "away_score": null
+      "home_score": 17,
+      "away_score": 0
     },
     {
       "id": 290982,
@@ -274,10 +274,10 @@
       "home_abbr": "BAL",
       "away_abbr": "LAC",
       "line": -4.5,
-      "home_bets": 37,
-      "home_money": 59,
-      "away_bets": 63,
-      "away_money": 41,
+      "home_bets": 40,
+      "home_money": 60,
+      "away_bets": 60,
+      "away_money": 40,
       "home_score": null,
       "away_score": null
     },

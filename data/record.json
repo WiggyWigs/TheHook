@@ -11127,9 +11127,9 @@
     "away_money": 80,
     "frozen_at": "2026-11-15T16:08:32+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 6,
+    "away_score": 34,
+    "final": true
   },
   "NFL:290979": {
     "league": "NFL",
@@ -11149,9 +11149,9 @@
     "away_money": 80,
     "frozen_at": "2026-11-15T16:08:32+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 13,
+    "away_score": 21,
+    "final": true
   },
   "NFL:290980": {
     "league": "NFL",
@@ -11170,6 +11170,28 @@
     "away_bets": 73,
     "away_money": 61,
     "frozen_at": "2026-11-15T16:08:32+00:00",
+    "frozen_for": "kickoff",
+    "home_score": 40,
+    "away_score": 46,
+    "final": true
+  },
+  "NFL:290981": {
+    "league": "NFL",
+    "season": 2026,
+    "an_week": 10,
+    "week_id": "2026-11-16",
+    "start_time": "2026-11-16T01:20:00.000Z",
+    "home": "Cincinnati Bengals",
+    "away": "Pittsburgh Steelers",
+    "home_abbr": "CIN",
+    "away_abbr": "PIT",
+    "tue_line": -3.5,
+    "line": -3.5,
+    "home_bets": 53,
+    "home_money": 47,
+    "away_bets": 47,
+    "away_money": 53,
+    "frozen_at": "2026-11-15T21:30:04+00:00",
     "frozen_for": "kickoff",
     "home_score": null,
     "away_score": null,

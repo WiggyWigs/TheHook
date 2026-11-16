@@ -6239,6 +6239,18 @@
     "home": "Dallas Cowboys",
     "start_time": "2026-11-15T21:25:00.000Z"
   },
+  "NFL:290981": {
+    "line": -3.5,
+    "home_bets": 53,
+    "home_money": 47,
+    "away_bets": 47,
+    "away_money": 53,
+    "frozen_at": "2026-11-15T21:30:04+00:00",
+    "frozen_for": "kickoff",
+    "away": "Pittsburgh Steelers",
+    "home": "Cincinnati Bengals",
+    "start_time": "2026-11-16T01:20:00.000Z"
+  },
   "NFL:291123": {
     "line": 3.5,
     "home_bets": 33,

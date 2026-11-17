@@ -11197,6 +11197,28 @@
     "away_score": 18,
     "final": true
   },
+  "NFL:290982": {
+    "league": "NFL",
+    "season": 2026,
+    "an_week": 10,
+    "week_id": "2026-11-16",
+    "start_time": "2026-11-17T01:15:00.000Z",
+    "home": "Baltimore Ravens",
+    "away": "Los Angeles Chargers",
+    "home_abbr": "BAL",
+    "away_abbr": "LAC",
+    "tue_line": -4.5,
+    "line": -4.5,
+    "home_bets": 48,
+    "home_money": 63,
+    "away_bets": 52,
+    "away_money": 37,
+    "frozen_at": "2026-11-16T20:50:23+00:00",
+    "frozen_for": "kickoff",
+    "home_score": null,
+    "away_score": null,
+    "final": false
+  },
   "NFL:291123": {
     "league": "NFL",
     "season": 2026,

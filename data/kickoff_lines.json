@@ -6251,6 +6251,18 @@
     "home": "Cincinnati Bengals",
     "start_time": "2026-11-16T01:20:00.000Z"
   },
+  "NFL:290982": {
+    "line": -4.5,
+    "home_bets": 48,
+    "home_money": 63,
+    "away_bets": 52,
+    "away_money": 37,
+    "frozen_at": "2026-11-16T20:50:23+00:00",
+    "frozen_for": "kickoff",
+    "away": "Los Angeles Chargers",
+    "home": "Baltimore Ravens",
+    "start_time": "2026-11-17T01:15:00.000Z"
+  },
   "NFL:291123": {
     "line": 3.5,
     "home_bets": 33,

@@ -9059,9 +9059,9 @@
     "away_money": 74,
     "frozen_at": "2026-11-19T18:00:03+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 27,
+    "away_score": 31,
+    "final": true
   },
   "NCAAF:290167": {
     "league": "NCAAF",
@@ -11349,6 +11349,28 @@
     "frozen_for": "kickoff",
     "home_score": 20,
     "away_score": 23,
+    "final": true
+  },
+  "NFL:290983": {
+    "league": "NFL",
+    "season": 2026,
+    "an_week": 11,
+    "week_id": "2026-11-23",
+    "start_time": "2026-11-20T01:15:00.000Z",
+    "home": "Houston Texans",
+    "away": "Indianapolis Colts",
+    "home_abbr": "HOU",
+    "away_abbr": "IND",
+    "tue_line": -12.5,
+    "line": -12.5,
+    "home_bets": 52,
+    "home_money": 58,
+    "away_bets": 48,
+    "away_money": 42,
+    "frozen_at": "2026-11-20T01:04:08+00:00",
+    "frozen_for": "kickoff",
+    "home_score": 26,
+    "away_score": 3,
     "final": true
   },
   "NFL:291123": {

@@ -6335,6 +6335,18 @@
     "home": "Baltimore Ravens",
     "start_time": "2026-11-17T01:15:00.000Z"
   },
+  "NFL:290983": {
+    "line": -12.5,
+    "home_bets": 52,
+    "home_money": 58,
+    "away_bets": 48,
+    "away_money": 42,
+    "frozen_at": "2026-11-20T01:04:08+00:00",
+    "frozen_for": "kickoff",
+    "away": "Indianapolis Colts",
+    "home": "Houston Texans",
+    "start_time": "2026-11-20T01:15:00.000Z"
+  },
   "NFL:291123": {
     "line": 3.5,
     "home_bets": 33,

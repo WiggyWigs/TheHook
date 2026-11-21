@@ -5051,6 +5051,18 @@
     "home": "UCF Knights",
     "start_time": "2026-11-20T23:00:00.000Z"
   },
+  "NCAAF:290087": {
+    "line": 1.5,
+    "home_bets": 23,
+    "home_money": 5,
+    "away_bets": 77,
+    "away_money": 95,
+    "frozen_at": "2026-11-21T16:38:25+00:00",
+    "frozen_for": "kickoff",
+    "away": "North Carolina Tar Heels",
+    "home": "Virginia Cavaliers",
+    "start_time": "2026-11-21T17:30:00.000Z"
+  },
   "NCAAF:290093": {
     "line": -22.5,
     "home_bets": 55,
@@ -5075,6 +5087,66 @@
     "home": "Missouri State Bears",
     "start_time": "2026-10-14T23:30:00.000Z"
   },
+  "NCAAF:290104": {
+    "line": 3,
+    "home_bets": 33,
+    "home_money": 64,
+    "away_bets": 67,
+    "away_money": 36,
+    "frozen_at": "2026-11-21T16:38:25+00:00",
+    "frozen_for": "kickoff",
+    "away": "Syracuse Orange",
+    "home": "Boston College Eagles",
+    "start_time": "2026-11-21T17:00:00.000Z"
+  },
+  "NCAAF:290110": {
+    "line": -3,
+    "home_bets": 61,
+    "home_money": 66,
+    "away_bets": 39,
+    "away_money": 34,
+    "frozen_at": "2026-11-21T16:38:25+00:00",
+    "frozen_for": "kickoff",
+    "away": "Colorado Buffaloes",
+    "home": "Cincinnati Bearcats",
+    "start_time": "2026-11-21T17:00:00.000Z"
+  },
+  "NCAAF:290113": {
+    "line": 22.5,
+    "home_bets": 38,
+    "home_money": 43,
+    "away_bets": 62,
+    "away_money": 57,
+    "frozen_at": "2026-11-21T16:38:25+00:00",
+    "frozen_for": "kickoff",
+    "away": "Wake Forest Demon Deacons",
+    "home": "Georgia Tech Yellow Jackets",
+    "start_time": "2026-11-21T17:00:00.000Z"
+  },
+  "NCAAF:290117": {
+    "line": 3.5,
+    "home_bets": 18,
+    "home_money": 21,
+    "away_bets": 82,
+    "away_money": 79,
+    "frozen_at": "2026-11-21T16:38:25+00:00",
+    "frozen_for": "kickoff",
+    "away": "Ohio State Buckeyes",
+    "home": "Nebraska Cornhuskers",
+    "start_time": "2026-11-21T17:00:00.000Z"
+  },
+  "NCAAF:290120": {
+    "line": -4.5,
+    "home_bets": 66,
+    "home_money": 64,
+    "away_bets": 34,
+    "away_money": 36,
+    "frozen_at": "2026-11-21T16:38:25+00:00",
+    "frozen_for": "kickoff",
+    "away": "East Carolina Pirates",
+    "home": "Army Black Knights",
+    "start_time": "2026-11-21T17:00:00.000Z"
+  },
   "NCAAF:290133": {
     "line": -12.5,
     "home_bets": 44,
@@ -5087,6 +5159,102 @@
     "home": "Duke Blue Devils",
     "start_time": "2026-11-21T00:30:00.000Z"
   },
+  "NCAAF:290135": {
+    "line": 4.5,
+    "home_bets": 29,
+    "home_money": 33,
+    "away_bets": 71,
+    "away_money": 67,
+    "frozen_at": "2026-11-21T16:38:25+00:00",
+    "frozen_for": "kickoff",
+    "away": "Wisconsin Badgers",
+    "home": "Purdue Boilermakers",
+    "start_time": "2026-11-21T17:00:00.000Z"
+  },
+  "NCAAF:290136": {
+    "line": 7,
+    "home_bets": 31,
+    "home_money": 34,
+    "away_bets": 69,
+    "away_money": 66,
+    "frozen_at": "2026-11-21T16:38:25+00:00",
+    "frozen_for": "kickoff",
+    "away": "Houston Cougars",
+    "home": "West Virginia Mountaineers",
+    "start_time": "2026-11-21T18:00:00.000Z"
+  },
+  "NCAAF:290140": {
+    "line": -49.5,
+    "home_bets": null,
+    "home_money": null,
+    "away_bets": null,
+    "away_money": null,
+    "frozen_at": "2026-11-21T16:38:25+00:00",
+    "frozen_for": "kickoff",
+    "away": "Wofford Terriers",
+    "home": "Ole Miss Rebels",
+    "start_time": "2026-11-21T17:00:00.000Z"
+  },
+  "NCAAF:290141": {
+    "line": -13.5,
+    "home_bets": 51,
+    "home_money": 71,
+    "away_bets": 49,
+    "away_money": 29,
+    "frozen_at": "2026-11-21T16:38:25+00:00",
+    "frozen_for": "kickoff",
+    "away": "Vanderbilt Commodores",
+    "home": "Florida Gators",
+    "start_time": "2026-11-21T17:00:00.000Z"
+  },
+  "NCAAF:290145": {
+    "line": 4.5,
+    "home_bets": 39,
+    "home_money": 41,
+    "away_bets": 61,
+    "away_money": 59,
+    "frozen_at": "2026-11-21T16:38:25+00:00",
+    "frozen_for": "kickoff",
+    "away": "BYU Cougars",
+    "home": "Kansas Jayhawks",
+    "start_time": "2026-11-21T17:00:00.000Z"
+  },
+  "NCAAF:290151": {
+    "line": -30.5,
+    "home_bets": 40,
+    "home_money": 18,
+    "away_bets": 60,
+    "away_money": 82,
+    "frozen_at": "2026-11-21T16:38:25+00:00",
+    "frozen_for": "kickoff",
+    "away": "Tennessee Tech Golden Eagles",
+    "home": "Mississippi State Bulldogs",
+    "start_time": "2026-11-21T18:00:00.000Z"
+  },
+  "NCAAF:290153": {
+    "line": 3,
+    "home_bets": 49,
+    "home_money": 31,
+    "away_bets": 51,
+    "away_money": 69,
+    "frozen_at": "2026-11-21T16:38:25+00:00",
+    "frozen_for": "kickoff",
+    "away": "Northwestern Wildcats",
+    "home": "Minnesota Golden Gophers",
+    "start_time": "2026-11-21T17:00:00.000Z"
+  },
+  "NCAAF:290154": {
+    "line": 7.5,
+    "home_bets": 43,
+    "home_money": 29,
+    "away_bets": 57,
+    "away_money": 71,
+    "frozen_at": "2026-11-21T16:38:25+00:00",
+    "frozen_for": "kickoff",
+    "away": "North Texas Mean Green",
+    "home": "Tulane Green Wave",
+    "start_time": "2026-11-21T17:00:00.000Z"
+  },
   "NCAAF:290157": {
     "line": 18.5,
     "home_bets": 37,
@@ -5098,6 +5266,18 @@
     "away": "Oregon Ducks",
     "home": "Michigan State Spartans",
     "start_time": "2026-11-21T01:00:00.000Z"
+  },
+  "NCAAF:290158": {
+    "line": 2.5,
+    "home_bets": 28,
+    "home_money": 43,
+    "away_bets": 72,
+    "away_money": 57,
+    "frozen_at": "2026-11-21T16:38:25+00:00",
+    "frozen_for": "kickoff",
+    "away": "Memphis Tigers",
+    "home": "Navy Midshipmen",
+    "start_time": "2026-11-21T17:00:00.000Z"
   },
   "NCAAF:290166": {
     "line": 10,
@@ -5194,6 +5374,18 @@
     "away": "Missouri State Bears",
     "home": "Delaware Fightin Blue Hens",
     "start_time": "2026-10-20T23:00:00.000Z"
+  },
+  "NCAAF:290396": {
+    "line": -17.5,
+    "home_bets": 32,
+    "home_money": 18,
+    "away_bets": 68,
+    "away_money": 82,
+    "frozen_at": "2026-11-21T16:38:25+00:00",
+    "frozen_for": "kickoff",
+    "away": "Western Kentucky Hilltoppers",
+    "home": "Liberty Flames",
+    "start_time": "2026-11-21T18:00:00.000Z"
   },
   "NFL:290807": {
     "line": 3,

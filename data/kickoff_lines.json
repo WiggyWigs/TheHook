@@ -5279,6 +5279,18 @@
     "home": "Cincinnati Bearcats",
     "start_time": "2026-11-21T17:00:00.000Z"
   },
+  "NCAAF:290112": {
+    "line": -7,
+    "home_bets": 51,
+    "home_money": 56,
+    "away_bets": 49,
+    "away_money": 44,
+    "frozen_at": "2026-11-22T02:51:39+00:00",
+    "frozen_for": "kickoff",
+    "away": "Hawai'i Warriors",
+    "home": "Nevada Wolf Pack",
+    "start_time": "2026-11-22T03:30:00.000Z"
+  },
   "NCAAF:290113": {
     "line": 22.5,
     "home_bets": 38,
@@ -5314,6 +5326,18 @@
     "away": "Ohio State Buckeyes",
     "home": "Nebraska Cornhuskers",
     "start_time": "2026-11-21T17:00:00.000Z"
+  },
+  "NCAAF:290118": {
+    "line": -6.5,
+    "home_bets": 79,
+    "home_money": 79,
+    "away_bets": 21,
+    "away_money": 21,
+    "frozen_at": "2026-11-22T02:51:39+00:00",
+    "frozen_for": "kickoff",
+    "away": "Utah State Aggies",
+    "home": "Oregon State Beavers",
+    "start_time": "2026-11-22T03:30:00.000Z"
   },
   "NCAAF:290120": {
     "line": -4.5,
@@ -5374,6 +5398,18 @@
     "away": "Samford Bulldogs",
     "home": "Auburn Tigers",
     "start_time": "2026-11-21T20:30:00.000Z"
+  },
+  "NCAAF:290131": {
+    "line": 3,
+    "home_bets": 30,
+    "home_money": 28,
+    "away_bets": 70,
+    "away_money": 72,
+    "frozen_at": "2026-11-22T02:51:39+00:00",
+    "frozen_for": "kickoff",
+    "away": "Oklahoma State Cowboys",
+    "home": "Arizona State Sun Devils",
+    "start_time": "2026-11-22T03:15:00.000Z"
   },
   "NCAAF:290133": {
     "line": -12.5,

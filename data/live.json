@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-11-23T03:34:46+00:00",
+  "pulled_at": "2026-11-23T15:44:36+00:00",
   "edge_threshold": 15,
   "games": [
     {
@@ -1872,7 +1872,7 @@
       "an_week": 11,
       "week_id": "2026-11-23",
       "start_time": "2026-11-23T01:20:00.000Z",
-      "status": "inprogress",
+      "status": "complete",
       "home": "San Francisco 49ers",
       "away": "Minnesota Vikings",
       "home_abbr": "SF",
@@ -1882,7 +1882,7 @@
       "home_money": 36,
       "away_bets": 76,
       "away_money": 64,
-      "home_score": 28,
+      "home_score": 35,
       "away_score": 10,
       "frozen_at": "2026-11-22T22:20:16+00:00",
       "frozen_for": "kickoff",
@@ -1902,9 +1902,9 @@
       "away_abbr": "CIN",
       "line": 6,
       "home_bets": 18,
-      "home_money": 25,
+      "home_money": 28,
       "away_bets": 82,
-      "away_money": 75,
+      "away_money": 72,
       "home_score": null,
       "away_score": null,
       "tue_line": 6.5

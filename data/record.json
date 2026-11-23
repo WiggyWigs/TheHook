@@ -10383,6 +10383,28 @@
     "away_score": 10,
     "final": true
   },
+  "NFL:290824": {
+    "league": "NFL",
+    "season": 2026,
+    "an_week": 11,
+    "week_id": "2026-11-23",
+    "start_time": "2026-11-23T01:20:00.000Z",
+    "home": "San Francisco 49ers",
+    "away": "Minnesota Vikings",
+    "home_abbr": "SF",
+    "away_abbr": "MIN",
+    "tue_line": -3,
+    "line": -3.5,
+    "home_bets": 24,
+    "home_money": 36,
+    "away_bets": 76,
+    "away_money": 64,
+    "frozen_at": "2026-11-22T22:20:16+00:00",
+    "frozen_for": "kickoff",
+    "home_score": null,
+    "away_score": null,
+    "final": false
+  },
   "NFL:290888": {
     "league": "NFL",
     "season": 2026,
@@ -12601,9 +12623,9 @@
     "away_money": 75,
     "frozen_at": "2026-11-22T16:57:17+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 23,
+    "away_score": 18,
+    "final": true
   },
   "NFL:290989": {
     "league": "NFL",
@@ -12667,9 +12689,9 @@
     "away_money": 49,
     "frozen_at": "2026-11-22T16:57:17+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 24,
+    "away_score": 27,
+    "final": true
   },
   "NFL:290992": {
     "league": "NFL",
@@ -12711,9 +12733,9 @@
     "away_money": 62,
     "frozen_at": "2026-11-22T16:57:17+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 38,
+    "away_score": 24,
+    "final": true
   },
   "NFL:291123": {
     "league": "NFL",

@@ -5963,6 +5963,18 @@
     "home": "Detroit Lions",
     "start_time": "2026-11-15T14:30:00.000Z"
   },
+  "NFL:290824": {
+    "line": -3.5,
+    "home_bets": 24,
+    "home_money": 36,
+    "away_bets": 76,
+    "away_money": 64,
+    "frozen_at": "2026-11-22T22:20:16+00:00",
+    "frozen_for": "kickoff",
+    "away": "Minnesota Vikings",
+    "home": "San Francisco 49ers",
+    "start_time": "2026-11-23T01:20:00.000Z"
+  },
   "NFL:290888": {
     "line": 2.5,
     "home_bets": 49,

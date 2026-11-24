@@ -7247,6 +7247,18 @@
     "home": "Denver Broncos",
     "start_time": "2026-11-22T21:25:00.000Z"
   },
+  "NFL:290994": {
+    "line": 6,
+    "home_bets": 18,
+    "home_money": 28,
+    "away_bets": 82,
+    "away_money": 72,
+    "frozen_at": "2026-11-23T15:44:36+00:00",
+    "frozen_for": "kickoff",
+    "away": "Cincinnati Bengals",
+    "home": "Washington Commanders",
+    "start_time": "2026-11-24T01:15:00.000Z"
+  },
   "NFL:291123": {
     "line": 3.5,
     "home_bets": 33,

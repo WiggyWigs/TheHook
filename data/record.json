@@ -10141,6 +10141,28 @@
     "away_score": 14,
     "final": true
   },
+  "NCAAF:290201": {
+    "league": "NCAAF",
+    "season": 2026,
+    "an_week": 13,
+    "week_id": "2026-11-30",
+    "start_time": "2026-11-25T00:00:00.000Z",
+    "home": "Western Michigan Broncos",
+    "away": "Miami (OH) RedHawks",
+    "home_abbr": "WMU",
+    "away_abbr": "M-OH",
+    "tue_line": -5.5,
+    "line": -5.5,
+    "home_bets": 55,
+    "home_money": 55,
+    "away_bets": 45,
+    "away_money": 45,
+    "frozen_at": "2026-11-24T20:06:52+00:00",
+    "frozen_for": "kickoff",
+    "home_score": 24,
+    "away_score": 28,
+    "final": true
+  },
   "NCAAF:290217": {
     "league": "NCAAF",
     "season": 2026,

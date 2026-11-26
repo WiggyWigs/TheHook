@@ -6011,6 +6011,18 @@
     "home": "Los Angeles Rams",
     "start_time": "2026-11-26T01:00:00.000Z"
   },
+  "NFL:290841": {
+    "line": 1.5,
+    "home_bets": 47,
+    "home_money": 55,
+    "away_bets": 53,
+    "away_money": 45,
+    "frozen_at": "2026-11-26T14:31:29+00:00",
+    "frozen_for": "kickoff",
+    "away": "Chicago Bears",
+    "home": "Detroit Lions",
+    "start_time": "2026-11-26T18:00:00.000Z"
+  },
   "NFL:290888": {
     "line": 2.5,
     "home_bets": 49,

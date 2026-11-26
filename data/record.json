@@ -10427,6 +10427,28 @@
     "away_score": 10,
     "final": true
   },
+  "NFL:290825": {
+    "league": "NFL",
+    "season": 2026,
+    "an_week": 12,
+    "week_id": "2026-11-30",
+    "start_time": "2026-11-26T01:00:00.000Z",
+    "home": "Los Angeles Rams",
+    "away": "Green Bay Packers",
+    "home_abbr": "LA",
+    "away_abbr": "GB",
+    "tue_line": -2.5,
+    "line": -2.5,
+    "home_bets": 52,
+    "home_money": 63,
+    "away_bets": 48,
+    "away_money": 37,
+    "frozen_at": "2026-11-25T19:06:38+00:00",
+    "frozen_for": "kickoff",
+    "home_score": null,
+    "away_score": null,
+    "final": false
+  },
   "NFL:290888": {
     "league": "NFL",
     "season": 2026,

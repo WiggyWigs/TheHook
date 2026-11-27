@@ -10181,9 +10181,9 @@
     "away_money": 69,
     "frozen_at": "2026-11-26T20:00:05+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 48,
+    "away_score": 27,
+    "final": true
   },
   "NCAAF:290217": {
     "league": "NCAAF",
@@ -12887,9 +12887,9 @@
     "away_money": 64,
     "frozen_at": "2026-11-26T20:00:05+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 13,
+    "away_score": 10,
+    "final": true
   },
   "NFL:291123": {
     "league": "NFL",

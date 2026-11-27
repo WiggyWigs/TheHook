@@ -5939,6 +5939,18 @@
     "home": "San Jose State Spartans",
     "start_time": "2026-11-27T20:30:00.000Z"
   },
+  "NCAAF:290233": {
+    "line": -7.5,
+    "home_bets": 40,
+    "home_money": 39,
+    "away_bets": 60,
+    "away_money": 61,
+    "frozen_at": "2026-11-27T20:53:33+00:00",
+    "frozen_for": "kickoff",
+    "away": "Air Force Falcons",
+    "home": "New Mexico Lobos",
+    "start_time": "2026-11-27T21:30:00.000Z"
+  },
   "NCAAF:290255": {
     "line": 9.5,
     "home_bets": null,

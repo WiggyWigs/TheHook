@@ -10357,9 +10357,9 @@
     "away_money": 52,
     "frozen_at": "2026-11-27T14:45:25+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 20,
+    "away_score": 13,
+    "final": true
   },
   "NCAAF:290217": {
     "league": "NCAAF",
@@ -10400,6 +10400,28 @@
     "away_bets": 58,
     "away_money": 66,
     "frozen_at": "2026-11-27T14:45:25+00:00",
+    "frozen_for": "kickoff",
+    "home_score": null,
+    "away_score": null,
+    "final": false
+  },
+  "NCAAF:290233": {
+    "league": "NCAAF",
+    "season": 2026,
+    "an_week": 13,
+    "week_id": "2026-11-30",
+    "start_time": "2026-11-27T21:30:00.000Z",
+    "home": "New Mexico Lobos",
+    "away": "Air Force Falcons",
+    "home_abbr": "UNM",
+    "away_abbr": "AFA",
+    "tue_line": -6.5,
+    "line": -7.5,
+    "home_bets": 40,
+    "home_money": 39,
+    "away_bets": 60,
+    "away_money": 61,
+    "frozen_at": "2026-11-27T20:53:33+00:00",
     "frozen_for": "kickoff",
     "home_score": null,
     "away_score": null,
@@ -13107,9 +13129,9 @@
     "away_money": 76,
     "frozen_at": "2026-11-27T14:45:25+00:00",
     "frozen_for": "kickoff",
-    "home_score": null,
-    "away_score": null,
-    "final": false
+    "home_score": 27,
+    "away_score": 5,
+    "final": true
   },
   "NFL:291123": {
     "league": "NFL",
